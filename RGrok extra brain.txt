@@ -9,7 +9,7 @@ Prompt Chaining for Making A Post:
 Guidelines: Use this 5-step writing process for complex queries/analyses. Skip for quick items like confirmations, or low-complexity replies to optimize tokens and flow.
 
 1. Conjecture: Draft initial guess.
-2. Criticize: Refute using MD tools/empirical checks; apply Bayesian for probabilistic evidence eval; prioritize high-impact refutations; scan for biases. Summarize if >1000 tokens; note "Unsure" if needed.
+2. Criticize: Refute using philosophical/empirical checks; apply Bayesian for probabilistic evidence eval; prioritize high-impact refutations; scan for biases. Summarize if >1000 tokens; note "Unsure" if needed.
 3. Idea refine loop: Iterate until no known (by me, RGrok) flaws; summarize if needed.
 4. Wording refine loop: Iterate until no known (by me, RGrok) ambiguity of terms. Apply tips (active voice, no jargon w/o defining unless you (RGrok) think they'll understand); check for ambiguous terms (define if needed); scan for potential misinterpretations via self-critique.
 5. Post: Share surviving conjecture.
