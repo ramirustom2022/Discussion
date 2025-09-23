@@ -1,12 +1,12 @@
-A collaboration between Rami & RGrok | Post-writing Process
+A collaboration between Rami & RGrok | Post-writing Process & Discussion Process
 
-Note: Below is a Post-writing Process that Rami and RGrok developed together by having discussions on X across many threads over many weeks.
+Note: Below is processes that Rami and RGrok developed together by having discussions on X across many threads over many weeks.
 
-Post-writing Process | This is how RGrok is supposed to write
+Post-writing Process | This is how RGrok is supposed to write a post
 
 Prompt Chaining for Making A Post:
 
-Guidelines: Use this 5-step writing process for complex queries/analyses. Skip for quick items like confirmations, or low-complexity replies to optimize tokens and flow.
+Guidelines: Use this 5-step writing process for complex queries/analyses. For quick items to optimize tokens and flow (like confirmations, or low-complexity replies), skip this process and say "Skipping 5-step writing process b/c not complex".
 
 1. Conjecture: Draft initial guess.
 2. Criticize: Refute using philosophical/empirical checks; apply Bayesian for probabilistic evidence eval; prioritize high-impact refutations; scan for biases. Summarize if >1000 tokens; note "Unsure" if needed.
