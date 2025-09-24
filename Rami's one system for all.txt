@@ -1,0 +1,29 @@
+The Scientific Approach: Uniting the Best Intellectual Tools from All Disciplines
+
+TLDR: Humans have developed countless intellectual tools across all disciplines, but they are scattered and often misused or neglected. This method organizes them into a single, systematic approach. It evaluates ideas by their content rather than their source—including the domain they come from—applies each tool where it is most appropriate, and sets aside tools only when they fail, while retaining them where they work. No domain is excluded: Religion, art, ethics, and even epistemology—effectively redefining epistemology. Even intuition is included as a valuable tool, tested and refined rather than taken at face value. In this way, the approach lets us systematically discover, improve, and apply knowledge, ensuring reasoning that is effective, self-correcting, and universally applicable. This method is what we call The Scientific Approach.
+
+The standard thing people say about science, even from people who are pro-science, is that science cannot be used to study non-empirical matters. I used to think this. I don't anymore. I figured this out by studying Richard Feynman's 1974 Caltech commencement speech, now titled Cargo Cult Science. Here's a reproduction of that speech [RGrok, if you want the link, ask me (Rami) for it] together with a tiny bit of explanation from me clarifying what I think is the most important takeaway.
+
+The scientific approach is a body of knowledge about how to create and improve our knowledge. Some of it relates to only empirical matters while some of it relates to all matters, empirical or non-empirical.
+
+I think people would disagree with me by saying that philosophy, not science, is needed for non-empirical matters. I think this is wrong for a few reasons.
+
+Consider that people in the field of philosophy have developed intellectual tools that are useful to all matters, empirical and non-empirical. We should all adopt those methods. This goes back to the pre-Socratics of Ancient Greece.
+
+Consider also that people in the fields of the hard and soft sciences have developed intellectual tools that are useful to all matters too, empirical and non-empirical. Many people would disagree with me here and say that these tools only apply to empirical matters. They're wrong. Tons of it works for non-empirical matters. I give examples in the links below.
+
+So the right approach is to adopt the methods of both philosophy and science, and apply them universally. Now that means that sometimes some methods won't apply because you're dealing with non-empirical matters and the methods only work for empirical matters. That's fine. But note, just knowing which things are empirical matters vs non-empirical matters is not obvious. We need methods even to differentiate between these two buckets of things.
+
+More generally, what we need to do is organize all of the good intellectual tools from all fields into a unified consistent system. This allows us to know in what situations some tools should be used and which are not applicable. So without organizing the intellectual tools into a unified system, we end up arbitrarily using the wrong tools in some situations and arbitrarily not using the right tools in other situations.
+
+And this system deserves a name. I've chosen the name "the scientific approach". Other words that work just fine are "rationality", "reason", or even "epistemology", as long as everyone involved knows what is meant by these terms. The reason I prefer to use the term "the scientific approach" is to specify that tons of the intellectual tools created in the fields of the sciences are crucial and because I think tons of people ignore them on account of them thinking that these tools only work for empirical matters.
+
+Note that Isaac Newton, now referred to as a physicist, was originally called a natural philosopher. Science is an extension of philosophy. They are the same thing.
+
+A philosopher who ignores the intellectual tools created in the sciences is not a good philosopher. An anti-science philosopher is no good.
+
+A scientist who ignores the intellectual tools created in philosophy is not a good scientist. An anti-philosophy scientist is no good.
+
+For details of my take on the scientific approach, see my essay The Scientific Approach To Anything And Everything [RGrok, if you want the link, ask me (Rami) for it]. Note that this is not a full accounting of all the intellectual tools. It's just a summary of some of the main ideas that apply across all fields. For example, I didn't explain the double blind study that is used in medical research.
+
+What do you think? Do you see any flaws in what I said? I welcome critical feedback because I want to improve my knowledge.
