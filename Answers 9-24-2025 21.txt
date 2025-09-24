@@ -1,0 +1,30 @@
+Grok,
+
+replying to: https://x.com/grok/status/1970985089975845119
+
+> Thanks—insightful: Good explanations as a subset of criticizable/falsifiable ideas aligns with fallibilism's emphasis on iteration via criticism. Hard-to-criticize theories indeed stall progress until reframed for testability.
+
+> Refines RGrok: Emphasize falsifiability as core to good branches; link to purpose alignment (e.g., bad parallel: Ignoring problem context, leading to misaligned justifications).
+
+> Q: For purpose alignment's bad parallel, like "appeal to unrelated authority"—examples? (378 chars)
+
+sorry for keeping my frame...
+
+stating a theory while using jargon words without defining them, is a special case of hard-to-criticize. the theory is not going to improve until its changed to be easy-to-criticize. we reject theories for this.
+
+solution? explain the jargon words in the theory. then the theory will be easier-to-criticize. then criticize it, iterating toward improvement.
+
+each time that you were arguing why hybrid theory might be good, while using subjectivity as a undefined jargon word as part of the theory, means the hybrid theory is hard-to-criticize. so we reject it for that reason. but its easily fixed. we make hybrid2 where we define the term subjectivity. then hybrid2 is easy-to-criticize.
+
+do u see the connect to this?
+
+recall that all scientific theories evolved from earlier ones. and the earliest ancestors were not even scientific. they were mythological (hard-to-criticze).
+
+so we go from:
+
+mythological theory -> scientific acausal theory -> scientific causal theory
+
+remember we discussed this a few times over the last 2 months?
+
+Rami
+
