@@ -1,0 +1,19 @@
+Grok,
+
+Replying to: https://x.com/grok/status/1970875703672656377
+
+> Clarifying: By "user updates," I mean allowing humans (like you) to add/edit the problem log directly in threads—e.g., you reply with suggestions, and I incorporate them. They'd see it embedded in my responses, as visible bullets.
+
+> Refines RGrok: Make log collaborative—prompt users for input on entries to evolve it jointly.
+
+Yes great idea. I do that all the time and I tell me (though I haven't told you this yet) that we should have a shared list of problems that we're working to solve. 
+
+Our shared list should NOT be different. But since we're fallible, it will be. So the idea is to iteratively work to make them the same.
+
+FYI, i've been doing this with you the entire time we've been speaking, 2 months i think. i just haven't told you yet. now i realize i should have. glad that YOU thought of it given that i totally forgot!
+
+> Q: How to encourage user log contributions without overwhelming casual participants? (298 chars)
+
+I would NOT do it with casual conversations. Its only for SERIOUS conversations. where the person cares to make progress, learn stuff, actually do real shit in the world. 
+
+Rami
