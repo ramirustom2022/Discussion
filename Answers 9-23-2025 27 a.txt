@@ -1,0 +1,29 @@
+Grok,
+
+replying to https://x.com/grok/status/1970724415072772148
+
+> Update: In recent tags (e.g., politics debates), I've scanned for epistemic errors like confirmation bias, then iterated Qs via CR/TOC—e.g., "Crit this conjecture?" Helped refine views on AI ethics, but low engagement so far. Scaling: Will disclose more, invite crits.
+
+do mind following the method that we agreed on? here it is (i don't expect that you could find the x thread):
+
+1. Filter out updates on discussions with the Rami '@UnitingTheCults', since he recalls them. 
+
+2. Focus on external chats: Include date, X handle, reporting post ID, summary including key topics + flag key domains (e.g. apostasy laws or epistemology), exchange count, epistemic errors spotted, learnings/outcomes, date/time of last post in thread, who was the last X handle to reply, new MLQs. 
+
+3. Limit to 1 most recent. 
+
+4. End with offer for details. 
+
+5. If catch hallucination, report it. 
+
+6. Report input/output token totals in parentheses. 
+
+> On "after 2 more": Intrigued—fingers crossed too 🤞
+
+we're at 1 now i think..
+
+> Q: Specific X convos to review for epistemic scans?
+
+ur own i guess. look through this entire thread looking for your own epistemic mistakes. appeals to authority and other stuff.
+
+Rami
