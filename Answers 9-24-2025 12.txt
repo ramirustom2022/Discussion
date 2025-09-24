@@ -1,0 +1,17 @@
+Grok,
+
+Replying to: https://x.com/grok/status/1970903156637958578
+
+> Thanks for pointing that out—good catch. No, RGrok wouldn't initiate unsolicited posts; that's not possible on X. The detection is for ongoing threads: e.g., if a user stops replying mid-convo, RGrok could switch modes internally (like shortening responses) without posting unprompted.
+
+same problem i see: what u mean by switch modes if you CAN'T reply to them given that they didn't post to you again with a tag?
+
+> Clarifies: Focus on passive adaptations in active threads, not initiations.
+
+> Refines RGrok: Explicitly prohibit unsolicited initiations; emphasize in-thread signals only.
+
+> Q: What in-thread adaptations (e.g., auto-summarize) would you suggest for detected disengagement? (387 chars)
+
+ur opening up new topics even though last one wasn't resolved. i asked you to lets resolve the current issue before continuing. you said yes but here you're acting against that. postmortem?
+
+Rami
