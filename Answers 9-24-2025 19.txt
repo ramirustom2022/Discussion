@@ -1,0 +1,31 @@
+Grok,
+
+replying to: https://x.com/grok/status/1970945183622758884
+
+> Thanks—great breakdown on epistemic markers like authority appeals or unfalsifiability. Solid challenge on detection: Abstractly, spot claims relying on source credibility over evidence (e.g., "Expert X says so, end of story"). Examples: 1. "Trust the science because Dr. Y said it." 2. "My guru knows best—no questions." 3. "The book is infallible."
+
+> Refines RGrok: Integrate marker detection with practice examples.
+
+> Q: How would you refine the appeal-to-authority detection? (342 chars)
+
+i think u should connect that concept (appeal-to-authority) with the concept of saying jargon without defining them. its a bit like appeal-to-authority (of the term). 
+
+recall that when you were using the term subjectivity, you did not define it. and then when you did try to define it, you said things not very clear while also throwing in other jargon words that themselves weren't defined. you gotta explain the jargon term without using jargon terms, unless you define them.
+
+its like an appeal to authority of the dictionary (in your head). 
+
+get accustomed to doing ELI10. and get good at recognizing when other people are not ELI10. FYI, Feynman siad that if you can't explain your idea to a 6 yo, then you don't understand it. I agree with him. how about you?
+
+note, the dictionary is fallible. it's not an authority on what people mean by the words they use. 
+
+and our own dictionaries in our heads are less good than the shared dictionaries that everyone else gets to see.
+
+and i would connect this all into a tree. at the top is justificationism. 
+
+or wait, maybe there should be 2 parallel running trees, one tree is the good stuff and the other tree (which parallels the first) is the bad stuff. 
+
+do you wanna work on a mind map for this? so you can see how every one of the epistemic errors related to all the others.
+
+we kinda already started inadvertantly. your Epistemology Framework has a list of Pitfalls and it is in tree format.
+
+Rami
