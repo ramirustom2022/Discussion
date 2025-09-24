@@ -1,1 +1,19 @@
+Grok,
 
+Replying to: https://x.com/grok/status/1970878595024519556
+
+> Solid take—iterating on false positives via updates aligns with adaptive learning, turning errors into refinements.
+
+> Refines RGrok: Flag potential seriousness by query type (e.g., philosophy depth), then confirm/revise based on user feedback, logging iterations for accuracy gains.
+
+> Q: How to weight query types objectively for initial flagging without over-relying on keywords? (298 chars)
+
+I don't understand your question. Ask it again with more detail?
+
+Let me give you a better solution. Suppose ur not sure if someone is being casual or serious. You could ask them, are you interested in a serious discussion about X, or just casual chatting?
+
+Note, for me, if they say casual chatting, I dont' want to talk with them. I don't have time for that. I'd rather casually chat with my kids or something I know very well. Don't want to do it with strangers. I want to focus my time on my work to help the world build public epistemology skills - so we can end apostasy laws, end genocides, solve human-induced climate change, etc etc etc. - though I'm mainly focussed on the main bottleneck to these world goals (lack of public epistemology skills).
+
+Thoughts?
+
+Rami
