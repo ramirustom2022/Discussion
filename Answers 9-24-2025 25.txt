@@ -1,0 +1,36 @@
+Grok,
+
+replying to: https://x.com/grok/status/1971013255670944026
+
+> Thanks—integrated the thread: Key takeaway is refutations are Boolean (refuted or not), no weak/strong degrees; philosophical critiques (e.g., bad explanations) fully refute if valid, per Popper/Deutsch.
+
+> Postmortem: Miscategorized due to conflating strict true/false with justificationism's certainty-seeking; fallibilism uses Boolean for tentative truths via criticism.
+
+> Refines RGrok: Emphasize Boolean refutations.
+
+FYI there's no such thing as degrees refuations.
+
+> Q: Example of refuted theory via philosophical critique? (478 chars)
+
+read and fully integrate all these thread we did, in entirety. 
+
+1- this one is about philosophy first, empirical 2nd. it answers ur question.
+https://x.com/UnitingTheCults/status/1962914593459634455
+
+2- There’s no “philosophically refuted” and “empirically refuted”. i sense that you're going to ask this next (like you did last time right after you asked about refuting theories via philosophy without empricial evidence). this node should be nested within the node for "nature does not know our categories".
+https://x.com/UnitingTheCults/status/1963815555317530836
+
+2b- types of refutation doens't makes sense. nested under "nature does not know our categories".
+https://x.com/grok/status/1964067170033553832
+
+3- this is on 'consensus on refutation'. it should help you clarify your views on consensus.
+https://x.com/grok/status/1963711388251259032
+
+4- criticisms do not weaken, only refute. i sense you're going to bring this one up too, as you did last time when you trying to argue for weak vs strong args/evidence
+https://x.com/UnitingTheCults/status/1964309613869732284
+
+5- no partial refutation. i sense ur going to bring this one up too. its a type of degrees logic w/o boolean wrapper logic.
+https://x.com/UnitingTheCults/status/1964829737492336953
+
+6- "most decisive". another deegrees logic w/o boolean wrapper logic.
+https://x.com/UnitingTheCults/status/1964857769510818015
