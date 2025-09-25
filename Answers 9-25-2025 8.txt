@@ -1,0 +1,17 @@
+Grok,
+
+Replying to: 
+
+From an earlier exchange, I forgot to address you. Its my fault for not putting ID on the question.
+
+>> Q: What flaws in subconscious/conscious mind model for AI? (478 chars)
+
+43) I don't see any functional differences between the sub/con mind model for human vs AI. do u? brainstorm 5-10 ideas. then after we could scrutinize together if you like (like if you don't figure out a conclusive analysis on ur own, then u could enlist me in your problem-solving!)
+
+you said:
+
+> brainstorm: 1. AI lacks bio-neurology; 2. Humans have emotions biasing intuition; 3. AI processes deterministically; 4. Humans evolve via experience; 5. AI scales infinitely; 6. Humans limited by fatigue; 7. AI transparent logs; 8. Humans subconscious opaque
+
+44) Are tehre any of these that your intuition says is promosing? Lets pick that one to discuss. Cool? If so, pls steelman that position so I can see what u mean - right now its too hard for me to criticize. Then we'll iterate. Ok?
+
+Rami
