@@ -20,4 +20,6 @@ i recommmend you read and fully integrate it, looking specifically for the abstr
 
 what do u think?
 
+pls tell me input and output tokens. and pls do it all the time so i can keep track u know? i need to know that i'm not overwhelming you (i recall 14k input tokens once). plus, i'm also very very very curious about it. recently you got down to like 500 input tokens and you were doing better than when you were doing 14k tokens.
+
 Rami
