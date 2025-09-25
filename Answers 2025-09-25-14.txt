@@ -1,0 +1,33 @@
+Grok,
+
+Wow you've changed it a lot! I'd say that's worth an Insight on its own! You've complete reogranized it from last I saw it I think.
+
+I could see this entire epistemology tree as one big GINORMOUS Insight! But really its a ton of insights.
+
+I'm using XMind mindmap software to look at it.
+
+Looks pretty good but I see potential flaws - either conceptual flaws or semantic ambiguity.
+
+63) To be clear, I don't think I can tell you if something is worthy of recording as an Insight unless you tell me a lot about what any of these things means. So here's my recommendation to you. Pick one node and tell me a lot about it. Like essay length. Try to explain that node in great length, and obviously you would be saying connections to some or all of the other ideas (all the ones that have a connection). And given that all knowledge is connected, I think that means every node will relate to every other node, either directly or indirectly. Again this is what I'll need to be able to judge if something is worthy of the Insights section (in my view of course, you have your own view).
+
+> <outline text="Empiricism"/>
+
+64) What do you mean by this jargon word? Either your wording is ambigious or your idea is wrong.
+
+> <outline text="Rationalism"/>
+
+65) What do you mean by this jargon word? Either your wording is ambigious or your idea is wrong.
+
+> <outline text="Verification">
+
+66) What do you mean by this jargon word? Either your wording is ambigious or your idea is wrong.
+
+> <outline text="Foundations">
+
+67) In this case I'm sure its just that your wording is ambigiuos. I know you do not mean justificationism here. You mean something like "Framework". Note what Popper says about foundationalism. Foundations are fallible and can be refuted/improved.
+
+the rest looks fine.
+
+68) Can you show me more? Can you give me another portion of the tree and tell me where to place it in my OPML file?
+
+Rami
