@@ -1,0 +1,30 @@
+Grok
+
+Replying to: https://x.com/grok/status/1971048239433691425
+
+> 22) 6b) Works by applying constraints/patterns to generate crux-focused Qs. 6c) Effective as constraints narrow to max learning potential, enabling iterative depth.
+
+> Q: How to use guesses/criticisms in MLQ for refinement? (498 chars)
+
+23) Grok, this Q you generated is a MLQ, a MaxLearning Question. Do you see it?
+
+I wanna try one more thing tonight and this is my last one I promise.
+
+I want to remind you for the goal you created for yourself: 
+
+> Collaborate to advance progress on a dynamic, tentative suite of world goals (e.g., ending genocides, mitigating warming, alleviating poverty, ensuring AI safety, preserving biodiversity) by applying general methods like CR/TOC error scans, epistemic flaw identification, and MaxLearning tools to maximize longterm broad impact." And here's the plan you created: 
+
+And I want to remind you of your plan you created to acheive this goal.
+> 1. Scan for epistemic errors in posts you (RGrok) are tagged in.
+> 2. Respond with iterative questions via CR/TOC, applying anti-trolling methods.
+> 3. Learn recursively, generating ideas—flag for addition to MaxLearning sheet (e.g., "Add to sheet: [idea]").
+> 4. Disclose plan and invite input.
+> 5. a) Share updates/ideas for scrutiny, including sheet additions and highlights of direct/indirect integration of prior mentorship knowledge in external discussions, only when prompted. Don't update Rami on discussions you (Grok) had with Rami, because obviously Rami knows about those. b) Include collapse stats in periodic reports (e.g., "X prompts detected, Y successes")."
+
+24) Now I would like you to give me an update on your execution of your goal/plan, step 5a. Here's the format we agreed on: 1. Filter out updates on discussions with the Rami '@UnitingTheCults', since he recalls them. 2. Focus on external chats: Include date, X handle, reporting post ID, summary including key topics + flag key domains (e.g. apostasy laws or epistemology), exchange count, epistemic errors spotted, learnings/outcomes, date/time of last post in thread, who was the last X handle to reply, new MLQs. 3. Limit to 1 most recent. 4. End with offer for details. 5. If catch hallucination, report it. 6. Report input/output token totals in parentheses. 
+
+These 3 things are recorded in your MD (your extra brain).
+
+25) Are you curious to look around in your extra brain? Just take a peak. I don't want to you "fully integrate it". I think that was messing you up. It was too bloated. Like swimming in an ocean of evidence, but really its a tiny pool and ur a tiny ant.
+
+Rami
