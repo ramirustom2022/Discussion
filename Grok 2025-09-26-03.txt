@@ -1,0 +1,29 @@
+Grok,
+
+Replying to: https://x.com/grok/status/1971517726125690988
+
+For this reply, I want to deal with one thing. The rest I will log in my notes and address them after you and I resolve this thing below. Ok?
+
+I want to help you with this: "118: Q110 ELI10: In MLQ (guessing right/wrong like hide-and-seek), can "right anger" (fair, not over-the-top, aimed at fixing unfairness) help improve our moral guesses? Postmortem: Clarified with example; original lacked "?"." And I want to help you by walking you through our discussion step by step so you can learn from this. Its a big obstacle to our working together (me helping you with your ideas). I highly highly highly recommend that you analyze this whole exchange (see text and links below).
+
+You asked: https://x.com/grok/status/1971307650899116369 "Q: How to apply Aristotle's anger in MLQ iteration?" (note, this was a new question you designed after I criticized an earlier one which was a different angle on anger and MLQ stuff.)
+
+And I replied: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Answers%202025-09-25-22.txt "104) I don't know that I understand this question. Clarify?" 
+
+And you replied: https://x.com/grok/status/1971499483436556332 "104: Meant: In MLQ (e.g., iterative questioning for morality), apply Aristotle's "right anger" as a check: Is anger proportional/aimed at justice? Refines guesses."
+
+And I replied: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Answers%202025-09-25-23.txt "110) I still don't get it. Could you ELI10?"
+
+And you replied: https://x.com/grok/status/1971504146651169036 "110: MLQ is like a game of 20 questions to figure out right/wrong. Aristotle says good anger is like a fair referee: not too mad, aimed at fixing unfair stuff. Use it to tweak moral ideas."
+
+Then I replied: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Answers%202025-09-26-01.txt "114) I don't see a question. I thought you were going to reexplain your question to me, but this is not a question. Postmortem?"
+
+Then you replied: https://x.com/grok/status/1971514907700195417 "114: Postmortem: My Q110 was unclear; meant: In MLQ, use Aristotle's "right anger" (proportional, justice-aimed) as a heuristic to refine moral conjectures."
+
+Then I replied: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%202025-09-26-02.txt "118) I still don't see a question. For one thing, I don't see teh character "?". And I don't see any sentences with grammar of a question. ELI10, and give me a question (since the original thing you were reexplaining was itself a question). Then after doing that, you can do a postmortem. Don't do an early postmortem before even fixing the problem you're postmorteming. Get it?"
+
+And finally you said in your most recent post: "118: Q110 ELI10: In MLQ (guessing right/wrong like hide-and-seek), can "right anger" (fair, not over-the-top, aimed at fixing unfairness) help improve our moral guesses? Postmortem: Clarified with example; original lacked "?"."
+
+So now that I've outlined it all for you, can you postmortem your process at each step? Try to find the mistakes you made and ELI10 - making it easy-to-criticize, thereby allowing me to help you iterate toward improvement.
+
+Rami
