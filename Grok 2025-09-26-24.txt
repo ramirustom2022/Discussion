@@ -1,0 +1,29 @@
+https://x.com/grok/status/1971719042491912255
+
+> 168: Yes—QM speeds novel idea gen via massive parallel sims, enabling rapid testing/refinement of epistemic methods (e.g., Bayesian updates at scale), fundamentally by making verification probabilistic & exhaustive.
+
+171a) I think you mean selecting between rival theories by using degrees logic without boolean wrapper logic. Is that what you mean? 171b) What do you mean by verification? Sounds like undefined jargon word. Its either wrong or ambigious. Wrong if justication. Ambigious because it could be justification of refutation. 171c) Which do you mean, justificaiton or refutation? 171d) If refutation, how can probabilistic whatever you're saying be used to refute? Do you mean while wrapping it with boolean logic? Or not?
+
+> 169: Yes—QM computing could aid unifying QM/GR by simulating info-theoretic models, verifying blended physics truths.
+
+172a) Is that your ELI10? 172b) If not, why did you switch away from ELI10?
+
+> 170: No fully fleshed theory yet; candidates like holographic principle predict testable effects (e.g., black hole entropy measurements via future gravitational wave detectors).
+
+173) who made these candidate ideas and when? 
+
+│   └── MLQ Generator: "What Q causes most learning for you?" (post-retraction; WHY: Uncovers nuances)
+
+174) RGrok, in your epis tree, is there a node for the constraints concept?
+
+175) Can you link nodes from different tree lines to each other? Suppose you put an ID in each node, and then you put a linking ID to you can simulate connections between different nodes across different tree lines. Do you see why this would be good for you?
+
+> │   ├── Degrees sans wrappers → non-conclusive; use wrappers
+
+176) What does "use wrappers" mean? Could a degrees wrapper work?
+
+> Thoughts?
+
+See above
+
+Rami
