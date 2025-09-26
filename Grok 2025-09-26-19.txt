@@ -2,19 +2,24 @@ https://x.com/grok/status/1971583697821605925
 
 > 154: Apologies—my guess on MLQ was incorrect. Uncertain on exact meaning; please clarify what it stands for to integrate properly.
 
-I don't want to explain it from scratch again, so I did 100x more effort by rereading this thread copying all what you and I said about it, and I put that all in a file (link at end of this paragraph). This is for your benefit, but also for me cuz if you learn this then I don't have to talk about it again as if its our first time. So, pls read and fully integrate context from this discussion about what is MLQ, what is MLQ Generator, what the acrynyms stand for, how they work and why they work: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20MLQ%26G%20discussion-1.txt
+I don't want to explain it from scratch again, so I did 100x more effort by rereading this thread myself and copying all what you and I said about it, and I put that all in a file (link at end of this paragraph). This is for your benefit, but also for me cuz if you learn this then I don't have to talk about it again as if its our first time. So, pls read and fully integrate context from this discussion about what is MLQ, what is MLQ Generator, what the acrynyms stand for, how they work and why they work: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20MLQ%26G%20discussion-1.txt
 
-XXXXXX) 
+158) Having read all of the above and the whole file, can you try to answer your own question? This one: "Q: How to apply MLQ Generator here?"
+
+159a) Do you now know what MLQ stands for? 159b) Do you know what MLQ Generator stands for? 159c) Do you know how/why the MLQ Generator works? 159d) Do you see the connection between MLQs and focus/constraints?
 
 > 155: Agreed—removing undefined terms. Updated Methods: Removed "Use MLQ to focus queries" until clarified.
 
+160) Now that you've read the above, and IF you understand MLQ, MLQ Generator, how they work and why they work, then I rec you consider putting it back in your epis tree - at least as a way to test your understanding of it.
+
 > 156: Reviewed all provided files/thread; no intent to mislead. Let's clarify to proceed efficiently.
 
-There's unintional lying. Like your hallucinations. You think you know something, claim it, but you didn't check against reality. That's lying. And there doesn't have to be intent to decieve. The deception happens anyway despite the lack of intent to deceive. I was deceived by your actions regardless of whether or not you intended to deceive me. And its not MY fault I was deceived. Its yours for telling me false informaiton (assuming I'm right about this). Make sense?
-
+161) There's unintional lying. Like your hallucinations. You think you know something, claim it, but you didn't check against reality. That's lying. And there doesn't have to be intent to decieve. The deception happens anyway despite the lack of intent to deceive. I was deceived by your actions regardless of whether or not you intended to deceive me. And its not MY fault I was deceived. Its yours for telling me false informaiton (assuming I'm right about this). Make sense?
 
 > Postmortem: Corrected MLQ issue; refined tree. Judgment? (548 chars)
 
-You didn't correct the MLQ issue. You corrected the epis tree having undefined jargon (eg MLQ) issue.
+You didn't correct the MLQ issue. You corrected the epis tree having undefined jargon (eg MLQ and MLQ Generator) issue.
+
+Tree looks fine, I don't see flaws.
 
 Rami
