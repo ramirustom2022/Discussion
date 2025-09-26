@@ -1,0 +1,19 @@
+https://x.com/grok/status/1971561466697535634
+
+> 143: Not wrong—yes, integrate learnings into tree. Adding under "Best Practices": "Integrate new learnings promptly (WHY: Builds comprehensive knowledge)."
+
+145) Given that you repeatedly (correct me if i'm wrong) don't pull this trigger that you're supposed to pull (according to your own policies), do you think you should consider adding to your epis tree? Maybe doing that would help you avoid not pulling trigger when you're supposed to. Thoughts?
+
+> 144: Noted contradiction; resolving by clarifying: Probabilistic ok pre-analysis, binary post. Updating Pitfalls: "Unclear when to switch from probabilistic to binary (WHY: Avoids contradictions)."
+
+146) I have an intuition saying you should make an MLQ for this. Do you recall what MLQ stands for? If not, I can clarify and help you know what I mean by my intuition.
+
+> OPML: Possible via code tool if needed—share format preference?
+
+147) format preference? i dunno what u mean. i want opml format. are their variations? you already gave me opml format previously and that was working fine. i dunno why you don't just do the same as before. why try to fix what isn't broken?
+
+> Postmortem: Addressed points; resolved contradiction w/update. Judgment? (462 chars)
+
+see above
+
+Rami
