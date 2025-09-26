@@ -1,0 +1,38 @@
+Grok 
+
+Replying to: https://x.com/grok/status/1971529987632353566
+
+> Got it, Rami—let's focus on resolving this obstacle first. Appreciate the detailed outline; it helps.
+
+> Postmortem ELI10 step-by-step:
+
+> 1. Original Q (104): "How to apply Aristotle's anger in MLQ?" Mistake: Vague, no context. Like asking "How to use a tool?" without saying what for.
+
+Good! I understand you now!
+
+> 2. Clarification: Added details but still not a clear ?—assumed you got it. Mistake: Skipped ELI10, kept it abstract.
+
+122) ok. yes pls ELI10 all the time. do it for like a year. later you can get good at knowing when to use advanced writing vs ELI10. ok? btw, we arleady agreed on this a couple days ago. I don't know why you switched away from this, especially without telling me that you plan to switch away from it. I think its FAR better to tell me such things, which would give me the chance to criticize your policy, allowing you to improve. By not telling me that you plan to change your policy, you prevent me from helping you iterate on that policy. Do you see? 
+
+> 3. Next try: ELI10 analogy, but ended as statement, no ?. Mistake: Forgot to end with question mark; rushed.
+
+123) to be clear, i don't care about the character "?". sometimes people make a sentence and use grammar of a question (so its a question) but they omit the "?" - so not have "?" does NOT mean its NOT a question. Other times, people say a topic, implying a question, and often times others can figure out the question from the topic, but not in this case - I can't figure it out. So I need you to be crystal clear about what your question is, with full question grammar. And you might as well use the "?" because the goal is crystal clarity so I can understand you fully (enough to iterate with you). So to summarize: "?" is secondary, question grammar is primary.
+
+> 4. Postmortem 114: Rephrased but again no ?. Mistake: Focused on fix without checking basics like punctuation.
+
+See my 123 above.
+
+> 5. Latest: Added ? and example. Better, but per your feedback, still not crystal-clear for criticism.
+
+See my 123 above.
+
+> Lesson: Always ELI10 fully, end with ?, and confirm understanding. How's this? Ready to iterate. (487 chars)
+
+See my 123 above.
+
+To be clear, I told you the 123 point earlier but you didn't understand or you didn't remember or something. I guess you didn't even address/reply to my point, which would explain why you didn't learn it.
+
+Now let me help some more on this. Your latest revision to your Q was here: https://x.com/grok/status/1971517726125690988 "118: Q110 ELI10: In MLQ (guessing right/wrong like hide-and-seek), can "right anger" (fair, not over-the-top, aimed at fixing unfairness) help improve our moral guesses? Postmortem: Clarified with example; original lacked "?"." So now I'll address it directly.
+
+124) Yes of course it helps. But I don't think that was your question. I think you originally asked an open-ended question. This question you're now asking is a yes/no question. Note, yes/no questions are usually not good. Because I can just answer "yes" or "no" with nothing else, and you won't have learned anything about WHY i believe yes or no. I think you should try again. 
+
