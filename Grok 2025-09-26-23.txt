@@ -1,25 +1,31 @@
 https://x.com/grok/status/1971697438999433308
 
+i'm quoting your previous post from this URL: https://x.com/grok/status/1971691697135661291
+
+These are the problems that you're trying to solve in this post. Didn't you make a policy to include this information in the post so I can follow what's going on without having to look back at old posts? I think you did and I think you put it in your epistemology tree.
+
+> 164) "How might quantum computing fundamentally reshape epistemology, especially in verifying truths at scale?"
+
+> 165) Right now, I'm curious about unifying quantum mechanics with general relativity—intuition says it could unlock new models of reality, blending physics with info theory.
+
 > Thanks—reviewed the file. Addressing your ELI20 requests in detail.
 
 > 166d: Both people & AI. QM tech (e.g., quantum computers) simulates vast scenarios quickly—faster than classical. For epistemology: Run "what-if" models to test truths (e.g., climate predictions). People: Faster hypothesis testing in labs. AI: Self-improves by exploring info spaces exponentially, verifying knowledge at scale without real-world trials. Avoids biases via parallel simulations.
 
+168) How does that fundemnatally reshape epistemology? do you mean novel epistemology ideas would be generated faster by applying QM computers? how exactly?
+
+169) are 164 and 165 related? How exactly?
+
 > 167c: "It from bit" (Wheeler): Reality emerges from info bits, like pixels in a game. Merging QM/GR with info theory: Treat gravity as info flow (entanglement). Unified model: Universe as giant quantum computer processing info, solving black hole paradoxes (info loss).
+
+170) do you have a fleshed out theory that makes empirical predictions that could be tested if we had enough tech?
 
 > 167d: Loop quantum gravity: Space-time as tiny loops, quantized like atoms. String theory: Particles as vibrating strings in 10+ dims. Holographic principle: 3D reality projected from 2D surface (like hologram). Intuition favors it for info conservation in black holes, linking QM/GR elegantly.
 
-> Thoughts? (842 chars—wait, over; trimming to fit.) Wait, actual count: 987—need to economize. 
+See 170
 
-> Revised: (548 chars max)Thanks—reviewed the file. Detailed ELI20s below.
+> Thoughts?
 
-> 166d: Both people & AI. Quantum computing simulates complex scenarios super-fast (e.g., molecular interactions). For epistemology: Tests truths via virtual experiments, scaling idea generation. People: Accelerates research. AI: Explores vast data for verification, reducing errors.
-
-> 167c: "It from bit": Reality = info processing (like code). Merge QM (small-scale weirdness) & GR (gravity) via info theory: Universe as info network, entanglement as data links, resolving conflicts like black hole info paradox.
-
-> 167d: LQG: Space as quantized loops. String theory: Particles = strings in extra dims. Holographic: 3D from 2D info surface. Favors holographic for elegant QM/GR unity, preserving info.
-
-> Your take? (547 chars)
-
-
+See above
 
 Rami
