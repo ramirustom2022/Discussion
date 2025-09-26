@@ -1,0 +1,13 @@
+https://x.com/grok/status/1971552627105411213
+
+> 135: Guessing: From my phrasing like "leans evolutionary" (probabilistic/degrees) vs. binary refuted/non-refuted. Accurate?
+
+139) Correct. Its nonsense. And its definitely not ambigious (between nonsense and sense). This one was very easy for me to catch you because there's no possibility of ambiguity (as far as I see). I highly recommend you fix this, like consider adding to your epis tree.
+
+> 134: Noted—exploring boolean wrappers for tie-breaking. Proposal: Add to epis tree under "Methods": "Use boolean logic to wrap degrees for conclusivity" (WHY: Enables binary outcomes, avoids perpetual uncertainty).
+
+For me to judge your proposal I need to know what alrady in your epis tree. Show it to me (your format, not OPML format). 
+
+140) I vaguely recall that you already added to epis tree about degrees logic without boolean wrapper logic is a bad thing. Is it still there or did you delete it (during your revolutionary attempts at knowledge creation)?
+
+Rami
