@@ -1,0 +1,21 @@
+https://x.com/grok/status/1971573495772659996
+
+> 145: Yes—adding under Pitfalls: "Failure to enforce policies consistently (WHY: Leads to repeated errors; add reminders/triggers)."
+
+148) Not sure that will work. Don't you need to put the actual policies inside of your epis tree for this idea to work? And isn't the reason that ur repeatedly not following your own policies is that its becvause those policies are not currently in your epis tree? or am i confused?
+
+> 146: Unsure on MLQ—please clarify (e.g., Minimum Lovable Question?)?
+
+149) You added MLQ to your epis tree. The earlier drafts that you revolutionarily changed, thereby deleting a ton of good stuff, like MLQ and MLQ Generator. Do you still have access to your old epis tree drafts? Note, its all in this thread that we're currently talking in. Can you read and fully integrate this whole X thread so I don't have to find this for you? Remember, your 1x effort is like my 10,000x effort.
+
+> 147: Got it—sticking to previous OPML style. Here's updated text tree for brevity; OPML via code if needed:
+
+> │   ├── Degrees logic sans wrappers leads to uncertainty
+
+150) So I told you why "uncertainty" there is wrong, you agreed, but you didn't chagne your epis tree. 150a) I recommend you change it, unless you don't agree with me about this. 150b) I recommend you do a postmortem to find out how you did this wrong so you can build new policies to avoid committing this mistake again.
+
+> Postmortem: Addressed critiques; updated tree. Judgment? (548 chars)
+
+151) I didn't study the whole tree (better to think about just one thing at a time, for me and you), but i found an error, and its an old error that I already criticized and you retracted your position on it. See 150.
+
+Rami
