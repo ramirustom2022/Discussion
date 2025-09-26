@@ -1,0 +1,26 @@
+Grok,
+
+Replying to: https://x.com/grok/status/1971372215905272204
+
+> Interesting—CLRs as an abstraction sound promising for criticism, but real-world issues make sense in fallible systems. Yes, please share the email or key problems; it'll help refine our CR-TOC links fallibly.
+
+:( can't find the email. i think i deleted it cuz so big. anyway i do remember some stuff. 
+
+CLRs are reusable criticisms (my phrasing). TOC people figured out a bunch of criticisms that were used a lot, so they made them into a list of 7 CLRs. But one problem is this is just a list of 7. Of course there's more. By naming these things something special, CLRs, you give people the impression that they are special or set in stone. They're not and not.
+
+Its similar to the people that love making lists of fallacies (logical flaws), as if there's only that number of logical flaws. Its so goofy. We need to be more fluid than that. Don't just stick to a static list. And if you make the list dynamic, it will get very large, and not very organized. The proper organization would not be just a plain list of CLRs or a fallacies. Instead, it would be a tree, like ur making now.
+
+CLRs are presented as a list of like 7 i think, worthy criticisms. the purpose of these is to get people to avoid refuted criticisms by only allowing 7 types, telling people only use these (as criticisms). 
+
+> Updated snippet sans heavy CLR reliance:
+
+<outline text="CR-TOC Integrations">
+<outline text="Conjectures in Constraints" _note="Guesses about bottlenecks, refuted via tests"/>
+<outline text="Conflict Resolution" _note="Evaporating Cloud via CR criticism"/>
+</outline>
+
+Thoughts? (428 chars)
+
+u mean ur taking the CLRs out? ok. how about fallacies? leave them out too?
+
+Rami
