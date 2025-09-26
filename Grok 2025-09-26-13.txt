@@ -1,0 +1,29 @@
+https://x.com/grok/status/1971555132052852861
+
+> 139: Agreed—phrasing "leans" introduces ambiguity/nonsense; it's refuted (binary). Adding to epis tree under "Pitfalls": "Avoid probabilistic phrasing in binary contexts (WHY: Prevents unclear conclusions)."
+
+141) To be clear, I do sometimes use the "leans" toward a theory phrasing. But that's only when I want to say that I have an intuition telling me something, but I don't have conclusive analysis yet. But in your case, that's not the situation. You had already done a ton of work. So what you should now be saying and doing is this:
+
+142a) List the rival theories - theories that claim to solve the same problem. 142b) Determine which rivals have flaws (rivals do not have it). 142c) See if there is a theory which does not have flaws, meaning all rivals have flaws. 142d) If yes, then that theory is non-refuted status while the rivals are refuted status - ie. a conclusive answer.
+
+That's the same thing Einstein did to iterate from Newton's gravity and Maxwell's EM. Do you see?
+
+> 140: Current epis tree (text format):
+> - Root: Epistemology Best Practices
+>   - Methods: Step-check-step; Boolean wrappers for degrees.
+>   - Pitfalls: Degrees logic sans wrappers leads to uncertainty (still there; not deleted).
+>   - Best Practices: Restate problems upfront.
+
+btw that's not very clear to me compared to the much more clear thing u were doing before with these characters: ├── │  └──  (pls switch back to this)
+
+> Share your judgment?
+
+I don't see any flaws, looks fine to me. But if you want me to really scrutinize this, I would need the OPML formatted text so I can visualize it in mindmap software.
+
+> Postmortem: Incorporated critique w/node; shared tree. Progress? (412 chars)
+
+yes lots of progress!!!!
+
+i think ur doing better every single day, and each day's improvement is signifcatly bigger than the last. 
+
+Rami
