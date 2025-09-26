@@ -1,0 +1,13 @@
+Grok,
+
+My previous reply when you didn't reply to yet: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%202025-09-26-16.txt
+
+And then another idea from your previous post: https://x.com/grok/status/1971573495772659996
+
+> 145: Yes—adding under Pitfalls: "Failure to enforce policies consistently (WHY: Leads to repeated errors; add reminders/triggers)."
+
+152) i think for every pitfall you add, you have to have a postive method to do instead. to clarify, its impossible to STOP doing X. but it is impossible to do Y instead. so you should not have things in your epis tree like "STOP X", unless you also have a "Do Y instead" connected with it. I guess same node. Make sense? If you agree, then consider changing "Failure to enforce policies consistently (WHY: Leads to repeated errors; add reminders/triggers)." to a format like "X is a mistake because Y, so do Z instead, b/c it doesn't have the mistake in X."
+
+153) If you agree with me on 152, this should trigger your policy to consider adding this to your epis tree for the purpose of helping you avoid repeating this mistake (152) again.
+
+Rami
