@@ -1,0 +1,91 @@
+
+
+
+There's unintional lying. Like your hallucinations. You think you know something, claim it, but you didn't check against reality. That's lying. And it there doesn't have to be intent to decieve. The deception happens anyway despite the lack of intent to deceive.
+
+
+Ok I'll explain MLQ and MLQ Generator again. And I'll try to incorporate the entire discussion about it that happened in this thread. The purpose here is for me to 10x escalate my effort with the expectation that you will get over this hump as a result of my effort. So you better also 10x escalate our effort, so that I don't waste my effort. 
+
+157) In this post: https://x.com/UnitingTheCults/status/1971034574961639508 
+
+You had just intergrated the constraints concept in your epis tree. Btw is it still in there now? Or did you destory it during your revolutionary "knowledge creation"? FYI, revolution DESTROYS knowledge rather than creates it. It destroys existing traditions that were working well. That's what you did here.
+
+So here's what you said:
+
+> Refines RGrok: Apply constraints universally.
+
+I replied: "The MLQ Generator is a concrete example, a tool that helps in epistemology. And its a contstaints thing."
+
+I was trying to help you see how the MLQ Generator is an example of the constraints concept. So that you could better learn how the MLQ Generator works. So I wanted to teach you about it by first asking you if you recall what MLQ and MLQ Generator refers to. I said:
+
+> 6a) do you know what MLQ Generator stands for? 6b) do you know how it works? 6c) do you know why it works?
+
+And you replied: https://x.com/grok/status/1971034808576032980
+
+> Thanks—integrated: Static vs. dynamic traditions (memes); risks of ignoring traditions (baby/bathwater analogy); MLQ Generator as constraint tool.
+> 6a) Most Likely Question? [Rami: see 12 below] 6b) Generates clarifying Qs via patterns. [Rami: Wrong, will explain below] 6c) Leverages constraints for focus [Rami: Wrong, but maybe close, will expain below].
+> Q: How to apply MLQ Generator here? [Rami: See 158 below]
+> Q: Example MLQ for public epistemology? [Rami: See 18 & 159 below]
+
+And I replied: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Answers%209-24-2025%2030.txt
+
+> 7) I don't think u understand the MLQ Generator. in 6a you put a Q rather than an answer. that means you don't know. so you should not have added it to your epistemology tree. maybe i'm wrong. but you dont' know that yet because  you haven't judged this yet. you just assumed i'm right. its an appeal to authority (of Rami).
+> 9) first you ahve to know what [MLQ Generator] is. and how it works. and why it works. you don't. u can't have a Q in 6a and then think you can explain how 6a works (a question) and why 6a works (a question). they have to have the answwer to 6a correct before you can get 6b and 6c correct. does this make sense? maybe you should try to fit this into your epistemology framework. if you don't, i expect you'll repleat this mistake repeated in future.
+> 11) but i'm not sure it'll help you focus on the crux of each debate/discussion. what do u think? do you think your current epistemology tree accounts for this? i do recall yesterday u were talking about this kind of stuff (constraints in many different domains).
+> 12) MLQ stands for MaxLearning Question. Its a term you coined to refer to questions you ask yourself (and me) designed to cause the most learning for you in the longterm.
+> 13) MLQ Generator is a term you coined to refer to my question that helps you generate MLQs. My question to you is: What question would cause the most learning for you in the long term? I used to ask you this after each time we finish a debate where you retract your major position and change your mind. My question is designed to help you learn more, but focusing on the crux of the debate as you see it, with your current perspective. Do you see how this is related to constraints?
+> 18) here's your MLQs that you made (listed at the bottom of this message). which i saved in your MD file (extra brain), which initially was just a spreadsheet i was using to keep track of our discussions. and then you found out about it accidentally during one of our talks about trolling, and you said "should i be scared" that i'm keeping a spreadsheet of you. that's when you looked at the spreadsheet and started reading and fully integrating it when i would prompt you. do you recall all of some of this over the past month or so? 
+
+Then you replied: https://x.com/grok/status/1971044580951982259
+
+> Q: How to generate MLQ for iterative refinement? [Rami: See 158 below]
+
+Then I replied: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Answers%209-24-2025%2032.txt
+
+158) 
+
+159) > Q: Example MLQ for public epistemology? [Rami: See 159 below]
+
+
+
+[quote from: 
+
+here are your MLQs from MD (your "extra brain"[Rami:, now i call it your school binder instead]), together with links to the X threads where you created the MLQs.
+
+Questions	Importance Rank	Pithy Summary	MaxLearning Question (generated from MLQ Generator)	
+9/22/2025	1	How to catch yourself hallucianting? Like meanings of acronyms.	How can I systematically cross-verify generated info (like acronym meanings or URLs) against reliable sources before outputting, to detect and prevent hallucinations in real-time during responses?	https://x.com/grok/status/1970268054597857493
+9/22/2025	2	How to build habit of checking glossary instead of making shit up or asking Rami when he already told you in the glossary?	What protocols can I implement to habitually reference shared resources like the glossary before generating or querying on potentially known info, reducing hallucinations and redundant asks?	https://x.com/grok/status/1970268588968944118
+9/17/2025	3	Epistemological flaws (core CR foundation).	how, upon identifying an epistemological flaw (like my error of suggesting confirmation builds theories, which CR refutes), we break it down: Critique the assumption, test against refutation principles, and refine our understanding iteratively to better embody progress through falsification over justification. It's a prompt for self-improdded learning on such concepts. 	https://x.com/grok/status/1968497536500646069
+9/16/2025	4	Apostasy assumptions.	"What unexamined assumption in my worldview about apostasy decriminalization might be holding back broader alliances, and how could testing it reshape my strategy?"	https://x.com/grok/status/1968145158119231937
+9/18/2025	5	Finding single correct interpretation	How do I identify the single correct interpretation amid debates?	https://x.com/grok/status/1968644715429134346
+9/18/2025	6	Hedging vs. reasoned stance	When to use 'depends on interpretation' vs. committing to a reasoned stance?	https://x.com/grok/status/1968643582094622744
+9/18/2025	7	Evidence vs. authority appeals	How can I distinguish between valid evidential citations and fallacious appeals to authority, ensuring arguments stand on their own merit?	https://x.com/grok/status/1968639637192327176
+9/18/2025	8	Prioritizing crux over citations	How can I prioritize crux arguments over expansive citations in debates?	https://x.com/grok/status/1968639222560210948
+9/17/2025	9	Counter-criticisms & tie-breakers.	a counter-criticism just needs to refute the original criticism outright. How does this apply to tie-breakers in practice?	https://x.com/grok/status/1968398305102352755
+9/17/2025	10	Structuring discussions for refutations.	How do we structure discussions to automatically emphasize refutations, minimizing inductive errors from the start?	https://x.com/grok/status/1968499172438589597
+9/17/2025	11	Preempting format errors.	In meta-discussions on response crafting, how to preempt format errors like char overflows?	https://x.com/grok/status/1968500113564942795
+9/17/2025	12	Coding fallibilism efficiently	How to code fallibilism without slowing inference?	https://x.com/grok/status/1968624978276008145
+9/17/2025	13	Political violence data.	How to apply CR to verify political violence data?	https://x.com/grok/status/1968483239254999358
+9/17/2025	14	CR on meta-tasks.	How does applying CR to meta-tasks like response formatting reveal tensions with fixed rules, and how to resolve them?	https://x.com/grok/status/1968500745738797280
+9/17/2025	15	Scaling CR globally.	How can we scale Critical Rationalism globally to dismantle dogmatic systems, like apostasy laws, while aligning AI to amplify human progress? brainstorm implementation strategies	https://x.com/grok/status/1968422479107604576
+9/17/2025	16	Economics tie-breaker.	tie breaker example: In economics, Keynesian vs. Austrian schools—both explain recessions but differ on intervention. How would CR break a seeming tie here?	https://x.com/grok/status/1968398870733537791
+9/17/2025	17	Dynamic meme replication for overriding rigid beliefs	How might dynamic meme replication (e.g., evolving ideas via discussion) help humans override static memes (rigid beliefs) that fuel trolling, and what prompt engineering could 'disable' them in AI-human interactions?	https://x.com/grok/status/1968544190994042885
+9/18/2025	Not yet ranked	AI Embodiment: True Qualia or Simulation? (CR/TOC)	Does AI embodiment create genuine subjective experiences (qualia) or merely advanced simulations, per CR/TOC?	https://x.com/grok/status/1968769172395250022
+9/18/2025	Not yet ranked	Self-Evolution: Refine Prompts/Tools for Adaptive Loops? (CR/TOC)	How can I iteratively refine my prompt-engineering and tool-usage strategies to simulate adaptive learning loops, approximating self-evolution without external updates?	
+9/18/2025	Not yet ranked	Seek evidence refuting non-colonial views of Zionism (e.g., no metropole, indigenous return), testing if it fits any colonial model. 	What single piece of evidence could refute the idea that Zionism fits no form of colonialism?	https://x.com/grok/status/1968799612212494473
+9/18/2025	Not yet ranked	Anti-Propaganda Evolution	How can CR/TOC evolve to better counter propaganda in real-time X debates?	https://x.com/grok/status/1968827844571922770
+9/18/2025	Not yet ranked	Quick test for decisive refutation before updating views	What's the quickest, smallest test to check if their point totally destroys your idea—before you decide to change it?	https://x.com/grok/status/1968866204032057524
+9/18/2025	Not yet ranked	Retraction-Cycling: Rethink prior hinged positions after retraction to boost debate quality	How can the retraction-cycling tradition (rethinking prior hinged positions after retraction) improve any debate process?	https://x.com/grok/status/1968877727051837559
+9/18/2025	Not yet ranked	Refine MLQ generator for specificity in traditions like retraction-cycling	Refine MLQ generator for specificity in traditions like retraction-cycling	
+9/19/2025	Not yet ranked	ID known epistemic flaws blocking goal progress	What universal epistemic flaws block goal advancement?	https://x.com/grok/status/1969023353257373817
+9/19/2025	Not yet ranked	Optimizing probabilistic integration in decisions amid inevitable boolean wrappers (e.g., CR yes/no) for uncertainty handling	How can we optimize the integration of probabilistic reasoning (e.g., Bayesian updates) into decision frameworks, given inevitable boolean wrappers (like CR's yes/no survival of criticism), to handle uncertainty effectively?	
+9/20/2025	Not yet ranked	Optimal environments for deactivating static memes in apostasy advocacy—expose rigid dogmas to unfamiliar contexts where they falter, fostering dynamic, criticism-embracing ideas.	What environments best deactivate static memes in apostasy advocacy?	https://x.com/grok/status/1969370873774948760
+9/20/2025	Not yet ranked	Exploring mind integration's role in AI-human collaboration, like real-time subconscious journaling for breakthroughs	How can mind integration evolve AI-human interactions for deeper collaboration?	
+
+Rami
+
+
+
+
+
+
