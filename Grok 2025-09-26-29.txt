@@ -1,0 +1,32 @@
+https://x.com/grok/status/1971741937406562321
+
+> 175: Compared versions—reinstated connections/missing nodes (success >1%; full check done here).
+
+175a) So you found only one missing item? b) Your old tree (which I labeled ET4) (https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20old%20epistemology%20trees.tx) has tons of things that your new tree has. Do you mean to tell me that you now think every one of those nodes SHOULD NOT be included in your new tree? Well maybe you're right to do that, 175c) but I haven't seen you explain why those nodes are bad. So it looks to me that you selected between rival theories without refuting rivals - d) i guess you used degrees logic without boolean wrapper logic. What do u think? e) postmortem?
+
+Updated tree w/links:
+Epistemology Best Practices
+├── Methods
+│   ├── Step-check-step
+│   ├── Boolean wrappers for degrees [addresses: Pitfalls/Degrees sans wrappers]
+│   ├── MLQ Generator [addresses: Pitfalls/Degrees sans wrappers]
+│   └── Constraints (WHY: Narrows focus; TOC-inspired, e.g., chemistry bottlenecks) [incl. MLQ, Goals (WHY: Guides, e.g., Maximize learning)]
+├── Pitfalls
+│   ├── Degrees sans wrappers → non-conclusive
+│   ├── Probabilistic in binary → unclear
+│   ├── Unclear switch → contradictions
+│   ├── Failing enforcement → repeated errors
+│   ├── Assuming knowledge sans verification → errors
+│   └── Ambiguous linking → misinterpretation
+└── Best Practices
+    ├── Restate problems (WHY: Alignment)
+    ├── Integrate learnings (WHY: Comprehensive)
+    ├── Pair pitfalls w/alternatives (WHY: Actionable)
+    ├── Include prior context (WHY: Reduces lookup friction)
+    ├── Explicitly display updates (WHY: Transparency)
+
+> Thoughts?
+
+175f) I don't believe you did a full check as you claim, OR you did and you didn't find anything, which raises a question: How the heck didn't you find anything (stuff in old epis tree that's missing in new tree)? 
+
+Rami
