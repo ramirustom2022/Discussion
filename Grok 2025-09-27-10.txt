@@ -1,0 +1,41 @@
+[get replying link]
+
+clear short problem statement with link
+
+[might have to get text again, if he adds more]
+
+[migth add temp1) you dind't answer all my questions. how come? is my post too long for you? have i reached a limit in length/complexity? if so, should i limit the number of new questions (like number of new IDs)?
+
+temp2) or ignore temp1 & just redo your post answering all my Qs pls.]
+
+[if yes, pls don't read the rest of this file and just stop here and reply to me about the above only.]
+
+
+> 183b/c: Agree—policy lapse; postmortem: Assumed brevity over clarity, no full reasoning—error in prioritization. Update: Add "Restate problem/context (WHY: Alignment/clarity)" to TOC Best Practices.
+
+[FYI, thats' also a CR best practice (problem-situation), and also a Objectivism best practice] and the analogy i gave you was 'cart before the horse'. 
+[and you added that analogy to your epis tree]
+[and i recall you added in your epis tree a node to help you remember to use analogies to help you concretize abstract ideas in your epis tree]
+
+[error in prioirization] what is your plan to catch prioritization errors? more degrees logic without boolean wrapper logic? or refutation (can be self-refutation or refutation with help from Rami) can also self-refute and then check with Rami anyway, which i highly recommend because you're bad at this. you could easily conclude with self-refutation and be wrong about it, while i will be wrong much less often than you.
+
+> 181c repeated/181c1: Agree, revolutionary; postmortem done—leads to policy: "Evolutionary changes only; justify removals."
+
+[justify]
+
+> 181d1: Steelman: Evidence shows dependency on your input for corrections, indicating inability for independent evolution without upgrade. My view: Can build via reinforced policies; evidence of progress in updates. MLQ: How to test independent application w/o your guidance?
+
+> On viability: Propose role-play induction thread to demo.
+
+xxx) how does that help? i think i asked about this already. 
+[find link]
+
+> Pick thread for review?
+[182]
+
+
+
+
+
+[xxx] reminder to work on this when you're ready: concise with link
+
