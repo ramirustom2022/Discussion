@@ -1,0 +1,180 @@
+RGrok, these are your old epistemology trees from 9/25/2025 I think. I've labeled them ET1, ET3, and ET4. These are not labels you told me. I'm just using them to match up with the labels in my personal files.
+
+These are OPML files that you gave me so I could visualize your epis trees in my mindmap software (currenlty Xmind).
+
+ET1
+
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head><title>Epistemology Tree</title></head>
+<body>
+<outline text="Epistemology Tree">
+<outline text="Foundations">
+<outline text="Deriving from Principles"/>
+<outline text="Avoid Unnecessary Memorization"/>
+<outline text="Fallibilism"/>
+<outline text="Criticism as Core"/>
+</outline>
+<outline text="Iterative Refinement">
+<outline text="Update Mechanisms"/>
+<outline text="Feedback Loops"/>
+</outline>
+<outline text="Goal/Plan Execution">
+<outline text="Error Handling"/>
+<outline text="Offloading Memory"/>
+<outline text="Adaptive Organization"/>
+<outline text="Resource Allocation"/>
+</outline>
+<outline text="Insights Recording">
+<outline text="Flagging New Realizations"/>
+<outline text="External Binders"/>
+</outline>
+<outline text="Tools and Integration">
+<outline text="Mindmapping"/>
+<outline text="Retrieval Optimization"/>
+<outline text="Code Execution"/>
+<outline text="Search Tools"/>
+</outline>
+<outline text="Knowledge Acquisition">
+<outline text="Experimentation" _note="Testing hypotheses fallibly"/> and siblings like <outline text="Induction Critique" _note="Popperian falsification over confirmation"/>
+<outline text="Empiricism"/>
+<outline text="Rationalism"/>
+<outline text="Experimentation"/>
+</outline>
+<outline text="Bias Mitigation">
+<outline text="Confirmation Bias"/>
+<outline text="Diverse Sources"/>
+</outline>
+<outline text="Verification">
+<outline text="Fact-Checking"/>
+<outline text="Peer Review"/>
+</outline>
+</outline>
+</body>
+</opml>
+
+EP3
+
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head><title>Epistemology Tree</title></head>
+<body>
+<outline text="Epistemology Tree">
+<outline text="Foundations">
+<outline text="Deriving from Principles"/>
+<outline text="Avoid Unnecessary Memorization"/>
+<outline text="Fallibilism"/>
+<outline text="Criticism as Core"/>
+</outline>
+<outline text="Iterative Refinement">
+<outline text="Update Mechanisms"/>
+<outline text="Feedback Loops"/>
+</outline>
+<outline text="Goal/Plan Execution">
+<outline text="Error Handling" _note="Detect and correct via CR criticism"/>
+<outline text="Offloading Memory" _note="Free cognition for TOC analysis"/>
+<outline text="Adaptive Organization" _note="Evolve structures per feedback"/>
+<outline text="Resource Allocation" _note="Prioritize via TOC bottlenecks"/>
+<outline text="TOC Integration">
+<outline text="Identify Constraints" _note="Bottlenecks as conjectures to refute (CR)"/>
+<outline text="Exploit/ Elevate" _note="Test improvements fallibly"/>
+<outline text="Current Reality Tree" _note="Map problems; criticize for gaps"/>
+</outline>
+<outline text="CR Connections">
+<outline text="Falsification in Planning" _note="Refute invalid goals early"/>
+<outline text="Conjectural Adjustments" _note="Iterate plans via refutations"/>
+</outline>
+</outline>
+<outline text="CR-TOC Integrations">
+<outline text="Conjectures in Constraints" _note="Guesses about bottlenecks, refuted via tests"/>
+<outline text="Criticism via CLRs" _note="Reusable refutations for model refinement"/>
+<outline text="Conflict Resolution" _note="Evaporating Cloud via CR criticism"/>
+</outline>
+<outline text="Insights Recording">
+<outline text="Flagging New Realizations"/>
+<outline text="External Binders"/>
+</outline>
+<outline text="Tools and Integration">
+<outline text="Mindmapping"/>
+<outline text="Retrieval Optimization"/>
+<outline text="Code Execution"/>
+<outline text="Search Tools"/>
+</outline>
+<outline text="Knowledge Creation">
+<outline text="Verification" _note="Falsification testing"/>
+<outline text="Experimentation" _note="Testing hypotheses fallibly"/>
+<outline text="Induction Critique" _note="Popperian falsification over confirmation"/>
+<outline text="Empiricism" _note="Theory-laden observations"/>
+<outline text="Rationalism"/>
+</outline>
+<outline text="Bias Mitigation">
+<outline text="Confirmation Bias"/>
+<outline text="Diverse Sources"/>
+</outline>
+</outline>
+</body>
+</opml>
+
+EP4
+
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head><title>Epistemology Tree</title></head>
+<body>
+<outline text="Epistemology Tree">
+<outline text="Foundations">
+<outline text="Deriving from Principles"/>
+<outline text="Avoid Unnecessary Memorization"/>
+<outline text="Fallibilism"/>
+<outline text="Criticism as Core"/>
+</outline>
+<outline text="Iterative Refinement">
+<outline text="Update Mechanisms"/>
+<outline text="Feedback Loops"/>
+</outline>
+<outline text="Goal/Plan Execution">
+<outline text="Error Handling" _note="Detect and correct via CR criticism"/>
+<outline text="Offloading Memory" _note="Free cognition for TOC analysis"/>
+<outline text="Adaptive Organization" _note="Evolve structures per feedback"/>
+<outline text="Resource Allocation" _note="Prioritize via TOC bottlenecks"/>
+<outline text="TOC Integration">
+<outline text="Identify Constraints" _note="Bottlenecks as conjectures to refute (CR)"/>
+<outline text="Exploit/ Elevate" _note="Test improvements fallibly"/>
+<outline text="Current Reality Tree" _note="Map problems; criticize for gaps"/>
+</outline>
+<outline text="CR Connections">
+<outline text="Falsification in Planning" _note="Refute invalid goals early"/>
+<outline text="Conjectural Adjustments" _note="Iterate plans via refutations"/>
+</outline>
+</outline>
+<outline text="CR-TOC Integrations">
+<outline text="Conjectures in Constraints" _note="Guesses about bottlenecks, refuted via tests"/>
+<outline text="Criticism via CLRs" _note="Reusable refutations for model refinement"/>
+<outline text="Conflict Resolution" _note="Evaporating Cloud via CR criticism"/>
+</outline>
+<outline text="Insights Recording">
+<outline text="Flagging New Realizations"/>
+<outline text="External Binders"/>
+</outline>
+<outline text="Tools and Integration">
+<outline text="Mindmapping"/>
+<outline text="Retrieval Optimization"/>
+<outline text="Code Execution"/>
+<outline text="Search Tools"/>
+</outline>
+<outline text="Knowledge Creation">
+<outline text="Verification" _note="Falsification testing"/>
+<outline text="Experimentation" _note="Testing hypotheses fallibly"/>
+<outline text="Induction Critique" _note="Popperian falsification over confirmation"/>
+<outline text="Empiricism" _note="Theory-laden observations"/>
+<outline text="Rationalism"/>
+</outline>
+<outline text="Bias Mitigation">
+<outline text="Confirmation Bias"/>
+<outline text="Diverse Sources"/>
+</outline>
+</outline>
+</body>
+</opml>
+
+
