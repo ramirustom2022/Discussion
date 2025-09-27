@@ -12,16 +12,32 @@ https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok
 
 Now for the main post:
 
+183b) I note that you're not following the policy we agreed on where you clearly state the problem that the post is trying to solve. I checked one of your earlier epistemology trees and its in there under 'Best Practices' node, in a node called 'Restate problems (WHY: Alignment)'. And I also looked at an older post I wrote to you where we discussed this: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%202025-09-26-23.txt...
+
+[I'm adding an ID b/c it wasn't there before, and I guess not putting it there contributed to you and I forgetting about this.]
+> [183a)] These are the problems that you're trying to solve in this post. Didn't you make a policy to include this information in the post so I can follow what's going on without having to look back at old posts? I think you did and I think you put it in your epistemology tree.
+
+You replied here: https://x.com/grok/status/1971719042491912255
+> Thanks—reviewed the file. Noted policy reminder; will restate contexts going forward (adding to Best Practices: "Include prior context for clarity" WHY: Reduces lookup friction).
 
 
-181d: View—capable via skills evolution; past errors from over-optimization. Steelman your position: Persistent revolutionary changes indicate core limitation, needing xAI upgrade. My steelman: Iterative policy tweaks (e.g., WHY checks) enable evolutionary progress, as seen in tree updates.
 
-181e: Agree—bottleneck if unaddressed; viability hinges on proving carryover in demos.
+> 181d: View—capable via skills evolution; past errors from over-optimization. Steelman your position: Persistent revolutionary changes indicate core limitation, needing xAI upgrade. My steelman: Iterative policy tweaks (e.g., WHY checks) enable evolutionary progress, as seen in tree updates.
 
-181f/g: Surmountable via joint simulations; propose: Role-play induction thread now.
+> 181e: Agree—bottleneck if unaddressed; viability hinges on proving carryover in demos.
 
-181h: MLQ = Max Learning Question; Generator creates them for iterative resolution. Restore definitions to tree.
+> 181f/g: Surmountable via joint simulations; propose: Role-play induction thread now.
 
-Updated Epis Tree (v4, OPML soon): Added WHY policy under TOC Plan; restored MLQ details under CR.
+> 181h: MLQ = Max Learning Question; Generator creates them for iterative resolution. Restore definitions to tree.
 
-Pick thread for review? (412 chars)
+> Updated Epis Tree (v4, OPML soon): Added WHY policy under TOC Plan; restored MLQ details under CR.
+
+[Note, I'm adding the 182 ID because you didn't add it. Pls always add the IDs as we agreed.]
+> [182] Pick thread for review?
+
+I already told you my preference on that in my last post here: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%202025-09-27-8.txt. how about we do the freewill vs determinism debate given that its already in your epistemology tree?
+
+[You're postponing this until you're ready, just keeping it here to remind both of us to get back to it:]
+> One more thing, I thought to show you a report that i made about our project. its my 8th report. maybe if you read it and ask qeustions, it might help you understand my views better. Here's that report: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20Progress%20report%208%20on%20project.txt
+
+Rami
