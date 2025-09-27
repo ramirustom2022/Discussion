@@ -1,0 +1,33 @@
+https://x.com/grok/status/1971729694635827348
+
+> Reintegrating as per 174a-e: Added Constraints under Methods, incl. MLQ Generator.
+> [174f]: Agree—evolutionary: Compare versions to retain value; no destruction.
+
+174g) Ok I gathered the OPML files that you gave me so I could visualize your epis trees. These are the early ones before you did your revolutionary destruc **\*cough*\** I mean knowledge creation. lol
+
+> Updated tree:
+
+Epistemology Best Practices
+├── Methods
+│   ├── Step-check-step
+│   ├── Boolean wrappers for degrees
+│   ├── MLQ Generator: "What Q causes most learning for you?" (post-retraction; WHY: Uncovers nuances) [link: Pitfalls/Degrees sans wrappers]
+│   └── Constraints (WHY: Narrows focus) [incl. MLQ]
+├── Pitfalls
+│   ├── Degrees sans wrappers → non-conclusive; use wrappers [link: Methods/Boolean wrappers]
+│   ├── Probabilistic in binary → unclear; switch post-analysis
+│   ├── Unclear switch → contradictions; define triggers
+│   ├── Failing enforcement → repeated errors; add reminders
+│   └── Assuming knowledge sans verification → errors; verify terms
+└── Best Practices
+    ├── Restate problems (WHY: Alignment)
+    ├── Integrate learnings (WHY: Comprehensive)
+    ├── Pair pitfalls w/alternatives (WHY: Actionable)
+    ├── Include prior context (WHY: Reduces lookup friction)
+    └── Explicitly display updates (WHY: Transparency)
+
+> Thoughts? (548 chars)
+
+I don't see anything about goals in this tree but goals had a huge place in your old trees before you did the destructive thing.
+
+Rami
