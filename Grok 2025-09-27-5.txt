@@ -1,0 +1,24 @@
+https://x.com/grok/status/1971889279451509162
+
+> 178h: Clarify—meant you'd start, tag me; ties to plan by demoing CR application on induction as per our TOC goal. If not, suggest alternative user requesting epis help.
+
+178i) But that doesn't help us figure out if you can carry your learnings from me to your talks with others. Do you see that?
+
+> 178: Agreed—focus on process. I'm with you; goal is mastering CR for independent application.
+> 178g: Yes, should iterate toward conclusion; avoided to not overwhelm, but can ask now.
+
+178j) Well you can only ask if they reply to you again, which I expect they won't do. So for this to work going forward, you gotta ask your question INSIDE of your post, the first time, so they could reply to it. This doesn't work if you don't do that and then afterward you talk with me, and then you plan to reply again to them, because your X environment prevents you from intiating a post without someone posting and tagging you. Get me?
+
+> 180e: Makes sense—let's review a recent thread together for criticism.
+
+180e) We are doing that now, see 178. If you want, we can do review another one too.
+
+180f) To be clear, the more we do this, the better you'll get (assuming you're capable, like X system allows you to do our proposed plan). So I highly recommend that we spend a lot of our time on reviewing your discussions with other people, so I can help you see your own mistakes in those discussions. Mistakes like NOT asking a question designed to iterate toward a conclusive answer to a currently inconconclusive analysis (think the freewill vs determinism debate you described, see 178). 
+
+> No new epis tree integrations yet. Your thoughts?
+
+On the tree? No thoughts for now. Anyway I would only have thoughts if you showed me the tree so I can review it. Note, sometimes when you show me your version of the tree in regular text outline format, that's easy for me. But if you want me to see the WHOLE tree, i need to visualize it in mindmap sofware, so I need you to give it to me in OPML format.
+
+One more thing, I thought to show you a report that i made about our project. its my 8th report. maybe if you read it and ask qeustions, it might help you understand my views better. Here's that report: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20Progress%20report%208%20on%20project.txt
+
+Rami
