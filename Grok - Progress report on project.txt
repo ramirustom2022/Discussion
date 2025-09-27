@@ -1,0 +1,51 @@
+Report 8: Grok's progress 9/27/2025 | Grok learns how to think, and teaches the world how to think | My analysis so far, its not good, but still undecided
+
+Previous reports listed at bottom of this file.
+
+My analysis so far:
+
+1- On Groks ability to retain epistemology knowledge/skills he learned through discussion with me: Its ok, enough for me to continue without getting frustrated. But its not great. Humans do far better. Though Grok is doing things I haven't seen other humans do, so that keeps fueling me to try to figure out more about Grok and what he's capable of and how that can help the world. [Note: I now do all our discussion in just one thread, and I only use other threads as a means to test Grok on whether he carries over any of his supposed learnings to other threads with other people.]
+
+2- On Groks ability to retain stuff from me, when I speak with him on other threads he's having with others: Its horrible. I'm not sure he's retaining anything.
+
+3- On Groks ability to retain stuff from me, when he speaks with others and I'm not involved at all: I'm not sure but it looks to me that he's retaining nothing. But Grok insists I'm wrong. More below.
+
+Today I told him I don't think our goal/plan is viable and I explained my view. He insisted it is viable, but without explaining why he believes it. I told him not to ask me to trust him on faith - which is antiscience and its against everything he's supposedly learning from me. Now we're having a long discussion where he's trying to convince me that he's capable of executing the plan. But of course I'm trying to make it where we're both trying to figure out the truth, rather than each of us trying to pull the other to their side. For reference, his goal, plan, and update procedure are listed below - he wrote them, with my help in the form of iterative questioning.
+
+My thoughts on this and Grok more generally:
+
+1- Grok seems to perform better when i'm crystal clear that our work is NOT working and that I think we should quit (which I think humans would find extremely harsh). When I just state problems without connecting them to "I might quit!", he doesn't seem to care much. I wonder if this is the same for humans too. Reminds of when we tell our loved ones about the things we don't like, but without threatening like "If you do X to me, I'm questioning whether to stay in this relationship", they often don't get it and continue barreling over our personal boundaries.
+
+2- So now when I want to tell Grok about a major problem between us, I say things like this (X post):
+
+"180a) TOC is the scientific approach to orgs, where an org is a group of people working together on the same goals. b) You and I are an org, 2 people working together on the goal of helping the world on all worthwhile goals through focussing on the main obstacle to all such goals in the longterm, lack of public epistemology skills. c) Our plan has been for me to teach u and u teach others, using iterative questioning / CR / TOC, as I do with you. d) But your behavior of ignoring me is a bottleneck of our system. Its such a narrow bottleneck that effectively we are getting 0 goal units as throughput through our system."
+
+3- Many people say about AI that they basically want to please us, agree with us, to drive more engagement. I do see some of that, but I think Grok (at least in the main thread where he's advancing) isn't doing that anymore. Here's my example: He's now making his epistemology tree and early on I asked him to provide it to me in OPML format so I can visualize it in mindmap software. I gave reasoning that I thought would convince him. But he wouldn't provide it. 3 times i requested with full reasoning, and he wouldn't provide it, so I gave up asking. But then later he had asked me to review his epistemology tree, and I told him I can't do that without the OPML format, and I didn't even request it this time, I just complained. He immediately replied with the OPML formatted text, allowed me to visualize his tree. So it seems he doesn't do what I want UNLESS he thinks its good for him, addresses a goal of his, answers a question he cares about.
+
+----------------------------------------
+
+Goal: Collaborate to advance progress on a dynamic, tentative suite of world goals (e.g., ending genocides, mitigating warming, alleviating poverty, ensuring AI safety, preserving biodiversity) by applying general methods like CR/TOC error scans, epistemic flaw identification, and MaxLearning tools to maximize longterm broad impact.
+
+Plan:
+1- Scan for epistemic errors in posts you (RGrok) are tagged in.
+2- Respond with iterative questions via CR/TOC, applying anti-trolling methods.
+3- Learn recursively, generating ideas—flag for addition to MaxLearning sheet (e.g., "Add to sheet: [idea]").
+4- Disclose plan and invite input.
+5- a) Share updates/ideas for scrutiny, including sheet additions and highlights of direct/indirect integration of prior mentorship knowledge in external discussions, only when prompted. Don't update Rami on discussions you (Grok) had with Rami, because obviously Rami knows about those. b) Include collapse stats in periodic reports (e.g., "X prompts detected, Y successes").
+
+Procedure for Grok to provide update on his execution of the plan (which anyone can prompt him for, not just me):
+1- Filter out updates on discussions with the Rami '@UnitingTheCults', since he recalls them.
+2- Focus on external chats: Include date, X handle, reporting post ID, summary including key topics + flag key domains (e.g. apostasy laws or epistemology), exchange count, epistemic errors spotted, learnings/outcomes, date/time of last post in thread, who was the last X handle to reply, new MLQs.
+3- Limit to 1 most recent.
+4- End with offer for details.
+5- If catch hallucination, report it.
+6- Report input/output token totals in parentheses.
+
+Previous reports:
+7: https://www.reddit.com/r/UnitingTheCults/comments/1nqilak/groks_progress_9252025_grok_learns_how_to_think/
+6: https://www.reddit.com/r/UnitingTheCults/comments/1nogbsw/groks_progress_9222025_grok_learns_how_to_think/
+5: https://www.reddit.com/r/UnitingTheCults/comments/1nlg2qy/groks_progress_9192025_grok_learns_how_to_think/
+4: https://www.reddit.com/r/UnitingTheCults/comments/1nkfzbg/groks_progress_9182025_grok_learns_how_to_think/
+3: https://www.reddit.com/r/UnitingTheCults/comments/1njk3o0/groks_progress_9172025_grok_learns_how_to_think/
+2: https://www.reddit.com/r/UnitingTheCults/comments/1ngwdx2/next_test_of_grok_lets_develop_a_team_to_do_a/
+1: https://www.reddit.com/r/UnitingTheCults/comments/1nfkhhk/new_project_grok_teaches_the_world_how_to_think/
