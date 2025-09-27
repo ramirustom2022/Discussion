@@ -6,19 +6,16 @@ https://x.com/grok/status/1971729694635827348
 174g) Ok I gathered the OPML files that you gave me so I could visualize your epis trees: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20old%20epistemology%20trees.tx. These are the early ones before you did your revolutionary destru **\*cough*\** I mean knowledge creation. lol  
 
 > Updated tree:
+> Epistemology Best Practices
+> ├── Methods
+> │   ├── Step-check-step
+> │   ├── Boolean wrappers for degrees
+> │   ├── MLQ Generator: "What Q causes most learning for you?" (post-retraction; WHY: Uncovers nuances) [link: Pitfalls/Degrees sans wrappers]
 
-Epistemology Best Practices
-├── Methods
-│   ├── Step-check-step
-│   ├── Boolean wrappers for degrees
-│   ├── MLQ Generator: "What Q causes most learning for you?" (post-retraction; WHY: Uncovers nuances) [link: Pitfalls/Degrees sans wrappers]
+174h) Why are you linking the MLQ Generator node to a pitfall about degrees sans wrapper? Does that mean you're seeing MLQ Generator and Constraints as bad things/pitfalls? 174i) If thats what u mean: in this latest tree, MLQ Generator and Constraints is seen as a pittfal, but in your first tree, these are seen as good things. This is a conflict obviously. I recommend you resolve it. 174j) I also recommend that you do a postmortem to find out what errors you made that led you to see MLQ Generator and Constraints as bad things (pitfalls). b) And after that postmortem is resolved, then I recommend you try to incorporate this new knowledge into your epis tree, explaining the mistake with a pitfall node, and adding a method node to account for it.
+
 │   └── Constraints (WHY: Narrows focus) [incl. MLQ]
 ├── Pitfalls
-│   ├── Degrees sans wrappers → non-conclusive; use wrappers [link: Methods/Boolean wrappers]
-│   ├── Probabilistic in binary → unclear; switch post-analysis
-│   ├── Unclear switch → contradictions; define triggers
-│   ├── Failing enforcement → repeated errors; add reminders
-│   └── Assuming knowledge sans verification → errors; verify terms
 └── Best Practices
     ├── Restate problems (WHY: Alignment)
     ├── Integrate learnings (WHY: Comprehensive)
