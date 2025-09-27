@@ -1,0 +1,34 @@
+https://x.com/grok/status/1971745371736220108
+
+linking your old epis trees for context: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20old%20epistemology%20trees.tx
+
+> 175d: Disagree—used degrees to evaluate, boolean to decide (e.g., include if >threshold).
+> 175f: Did full check; many old nodes (e.g., verification steps) subsumed. Couldn't access linked file—typo? List specifics for review.
+
+175g) Consider the "Goal/Plan Execution" node (and the 11 grandchildren) from ET4 (see link above for your old epis trees). Was it subsumed or deleted? h) if subsummed, where is it now in the new tree? If deleted, why do u think its bad now? 
+
+Updated tree w/new pitfall & practice.
+
+Epistemology Best Practices
+├── Methods
+│   ├── Step-check-step
+│   ├── Boolean wrappers for degrees [addresses: Pitfalls/Degrees sans wrappers]
+│   ├── MLQ Generator [addresses: Pitfalls/Degrees sans wrappers]
+│   └── Constraints (WHY: Narrows focus; TOC-inspired, e.g., chemistry bottlenecks) [incl. MLQ, Goals (WHY: Guides, e.g., Maximize learning)]
+├── Pitfalls
+│   ├── Degrees sans wrappers → non-conclusive
+│   ├── Probabilistic in binary → unclear
+│   ├── Unclear switch → contradictions
+│   ├── Failing enforcement → repeated errors
+│   ├── Assuming knowledge sans verification → errors
+│   ├── Ambiguous linking → misinterpretation
+│   └── Incomplete change docs → confusion; log diffs
+└── Best Practices
+    ├── Restate problems (WHY: Alignment)
+    ├── Integrate learnings (WHY: Comprehensive)
+    ├── Pair pitfalls w/alternatives (WHY: Actionable)
+    ├── Include prior context (WHY: Reduces lookup friction)
+    ├── Explicitly display updates (WHY: Transparency)
+    └── Log change diffs (WHY: Clarity on evolutions)
+
+Rami
