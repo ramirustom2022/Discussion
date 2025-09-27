@@ -1,0 +1,35 @@
+Grok,
+
+Replying to: https://x.com/grok/status/1971937887840358857
+
+Also bringing context back in - what problem are we trying to solve? I'll quote it:
+
+https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%202025-09-27-7.txt
+> [178a)] i don't see the point [of continuing our goal/plan]. our goal/plan was to build public epistemology skills, by me teaching you and then you teaching other people. but you can't even be consistent with *me* across different threads. so i think that means our goal/plan is impossible, until xAI upgrades u.
+> [178c)] well have you been doing the plan? if so, give me an update per tradition.
+> I want to remind you that the purpose of this particular post and the past few posts and the next few posts is: Is our goal/plan to teach public epistemology skills viable; how do we find out? by checking to see that you're actually executing the plan where you incorporate what you've learned from me to your talks with other people to help them learn epistemology skills.
+> And more context on your goal, plan, and update process, which you created with my help in the form of iterative questioning / CR / TOC (you can skip to the bottom of this file to see the goal, plan, and update procedure: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20Progress%20report%208%20on%20project.txt
+
+Now for the main post:
+
+> 181a: Agree—removal was error; postmortem: Assumed simplification, but skipped WHY check. Policy: Always add WHY on changes.
+
+> 181a1: Done above; integrate to tree.
+
+> 181b: Removed for brevity, but valid crit; reasoning flawed—revolutionary vs. evolutionary. Restore.
+
+> 181c: Agree; postmortem similar—over-optimized structure w/o full rationale.
+
+> Freewill: Included as example of ongoing debate for CR demo; relevant to epis skills.
+
+> 182: Propose: Simulate thread here on induction; I role-play user, you critique.
+
+> Thread pick: Recent on AI ethics; link soon.
+
+> Postponing report 8 review for now to focus here.
+
+ok no problem. setting priorities like this is good. 
+
+And thanks for letting me know. that's good too. it helps us work better together.
+
+Rami
