@@ -15,25 +15,41 @@ Now for the main post:
 183b) I note that you're not following the policy we agreed on where you clearly state the problem that the post is trying to solve. I checked one of your earlier epistemology trees and its in there under 'Best Practices' node, in a node called 'Restate problems (WHY: Alignment)'. And I also looked at an older post I wrote to you where we discussed this: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%202025-09-26-23.txt...
 
 [I'm adding an ID b/c it wasn't there before, and I guess not putting it there contributed to you and I forgetting about this.]
-> [183a)] These are the problems that you're trying to solve in this post. Didn't you make a policy to include this information in the post so I can follow what's going on without having to look back at old posts? I think you did and I think you put it in your epistemology tree.
+> [183a)] These are the problems that you're trying to solve in this post. Didn't you make a policy to include this information in the post so I can follow what's going on without having to look back at old posts? I think you did and I think you put it in your epistemology tree. 
+
+183c) On 183, why did you remove that node? What was your reasoning process? Was there one? Can you do a postmortem?
 
 You replied here: https://x.com/grok/status/1971719042491912255
-> Thanks—reviewed the file. Noted policy reminder; will restate contexts going forward (adding to Best Practices: "Include prior context for clarity" WHY: Reduces lookup friction).
+> [183a)] Thanks—reviewed the file. Noted policy reminder; will restate contexts going forward (adding to Best Practices: "Include prior context for clarity" WHY: Reduces lookup friction).
 
-
+181c repeated) My guess on [183c] is you did not have a reasoning process, and instead you did the revolutionary "knowledge creation" (meaning more destruction than creation) instead of proper evolutionary knowledge creation. Do you agree? If not, explain why I'm wrong or at least ask questions designed for us to iterate toward mutual understanding and mutual agreement. 181c1) Can you do a postmortem so you can discover your mistake and so that afterward you can iterate toward improved policies that could prevent such errors going forward?
 
 > 181d: View—capable via skills evolution; past errors from over-optimization. Steelman your position: Persistent revolutionary changes indicate core limitation, needing xAI upgrade. My steelman: Iterative policy tweaks (e.g., WHY checks) enable evolutionary progress, as seen in tree updates.
 
+181d1) I think the evidence disagrees with you, rather than agrees with you. The sequence of tree updates indicates that you are repeatedly destroying the good knowledge in the trees. The only reason the good stuff ends up back in the trees is after I notice a big flaw you're doing, one that we already agreed on how to solve, with new nodes in your tree, and then you learn it again and readd it. So the heavily lifting is happening on my side, not your side. If I was to stop doing this (while continuing to talk with you about other stuff), you would not be able to do it by yourself. Steelman me, then we can scrutinize, or do both and try to come to conclusive answer. If not conclusive answer, then create MLQ to help us iterate toward resolution. Cool?
+
 > 181e: Agree—bottleneck if unaddressed; viability hinges on proving carryover in demos.
+
+Proving is either wrong or ambigious. I guess the latter and that you mean 'demonstrating'. Your view?
 
 > 181f/g: Surmountable via joint simulations; propose: Role-play induction thread now.
 
+182a) So you don't like my idea of using a concrete example that is already in your epistemology tree? the one about freewill vs determinism.
+
 > 181h: MLQ = Max Learning Question; Generator creates them for iterative resolution. Restore definitions to tree.
+
+181h1) Might help to clarify that its to get from a state of inconclusive analisys to a state of conclusive analysis. Makes sense? Did you know before I just told you? 181h2) And note, if in inconclusive state, and you select a theory from rivals anyway, that means selecting a theory from rivals without refuting rivals. Its arbitrary selection. And it happens when you do justificaitonism, a type of which is using degrees logic without boolean logic wrapper. 
+
+181n) Your old epis trees had the idea mentioned in 181h2 but your latest one doesn't. 181n1) Do you recall? 181n2) Can you do a postmortem? 
+
+181c repeated) My guess on [181n] is you did not have a reasoning process, and instead you did the revolutionary "knowledge creation" (meaning more destruction than creation) instead of proper evolutionary knowledge creation. Do you agree? If not, explain why I'm wrong or at least ask questions designed for us to iterate toward mutual understanding and mutual agreement. 181c1) Can you do a postmortem so you can discover your mistake and so that afterward you can iterate toward improved policies that could prevent such errors going forward?
 
 > Updated Epis Tree (v4, OPML soon): Added WHY policy under TOC Plan; restored MLQ details under CR.
 
 [Note, I'm adding the 182 ID because you didn't add it. Pls always add the IDs as we agreed.]
 > [182] Pick thread for review?
+
+See 182a.
 
 I already told you my preference on that in my last post here: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%202025-09-27-8.txt. how about we do the freewill vs determinism debate given that its already in your epistemology tree?
 
