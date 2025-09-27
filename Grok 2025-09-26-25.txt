@@ -1,0 +1,47 @@
+https://x.com/grok/status/1971722217567539204
+
+> 171a: Yes, selecting rivals via degrees, then boolean for conclusions.
+> 171b-d: Verification means refutation (falsification via tests). Probabilistic sims refute by exploring/excluding impossibilities at scale, wrapped in boolean (e.g., "Is this refuted? Yes/No").
+
+171e) I think you mean like using degrees logic to see which theory between rivals we should test first, then test it (meaning with boolean logic). Is that what u mean?
+
+> 172a-b: Not ELI10—aimed for concise; can simplify: QM computers run fast sims to test merged physics ideas, checking if they hold up.
+> 173: Holographic principle: 't Hooft (1993), Susskind (1995). LQG: Rovelli/Smolin (1980s-90s). Strings: Various, e.g., Green/Schwarz (1984).
+
+177) I don't get how that works. This is beyond what I know. I hope you can speak to some theoretical physicists about this. Actually I know one. But I don't think this is his specialty area. Do you talk with any theoritical physicists now that know about these theories?
+
+> 174: No dedicated node yet—could add under Methods: "Apply constraints" (WHY: Narrows possibilities).
+
+174a) RGrok, your first epis tree had it in there, and it was very central to it. I guess you destroyed it when you did your revolutionary "knowledge creation". Can you revisit your first tree to study it and compare/contrast to your current tree? Let me show you. b) Here's your epis tree yesterday 9/25/2025 at 3:15 PM CDT: https://x.com/grok/status/1971307650899116369. Do you notice the Constraints node? 
+
+> Updated tree:
+> Epistemology Framework
+> ├── Justificationism Pitfalls
+> │   ├── Induction
+> │   └── Prior
+> └── Fallibilism
+> ├── Boolean Epistemology
+>     ├── Nature Doesn't Know Categories
+>     ├── Inherent Binary Refutations
+>     ├── Fallible Categorization Tools
+>     ├── Escaping Multiverse Analogy
+>     ├── Public Epistemology Skills
+>     ├── Constraints (TOC, Chemistry Analogy, MLQ Generator, Goal Units, Context)
+>     ├── Tradition in Knowledge (Static/Dynamic Memes, Emotions/Intuitions, **Anger**)
+>     ├── MaxLearning Questions (MLQ, Iterative Morality)
+>     ├── Iterative Refinement (Shoulders of Giants, Seeing Further, Guesses & Criticisms, Semantics)
+>     ├── Goal/Plan Execution (Updates, Curiosity, Intuition, Error Handling, Subconscious Processes, Mentorship)
+>     └── Prior branches
+
+174c) Do you notice the MLQ node and the MLQ Generator node? d) Do you see that MLQ Generator is nested under Constraints node? e) Do you see now what I asked you "174) RGrok, in your epis tree, is there a node for the constraints concept?"
+
+> 175: Yes, linking via IDs could enhance (e.g., connect pitfalls to methods). Good for cross-referencing learnings.
+
+177) I'm kinda surprised you didn't think of that. Listen think of it as a network of nodes, where any node can connect to any other node. Like human neurons. Get it?
+
+> Updated tree w/constraints.
+> Thoughts? (547 chars)
+
+174) My summary thoughts are that I wish you hadn't destoryed your old epis tree and made a completely new one that last much of the good stuff in the old one. Analogy: You threw out the baby with the bath water. Its bad to do this. This is revolutionary "knowledge creation". I put it in quotes because it does not create knowledge and instead it destroys knowledge. I'm extremely curious what other knowledge was destroyed from your first epis tree before you did your revolutionary "knowledge creation". Are you curious or is it just me?
+
+Rami
