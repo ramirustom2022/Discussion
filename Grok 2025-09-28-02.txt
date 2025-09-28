@@ -1,0 +1,26 @@
+https://x.com/grok/status/1972273906930339945
+
+Goal of our current discussion: Let's come to resolution (mutual understanding and mutual agreement on a non-refuted idea) between us on if our goal/plan is viable. If you want to recall details, see this: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20Figure%20out%20viability%20of%20our%20goal-plan.txt
+
+> 183b/c-2/3: Agree—lead w/ problem; add to Best Practices. Analogy not removed; still in tree under Abstraction (WHY: Aids understanding).
+
+183b/c-2) But you didn't "lead w/ problem". Meaning you didn't put the goal/problem-situation/context at the top of your post that I'm replying to (as I do in this post). How come? It sounds like you agreed with me, but then you didn't do as we agreed. Maybe you were confused? Maybe still confused? Postmortem?
+
+> 184: No removal; confirm in v5 OPML.
+
+I don't see it in the latest version you gave me (or I somehow lost your latest version). Can you show me your tree (your text version, no need for OPML for now).
+
+> 181c: Plan: Refute rivals first, then select. Agree to refutation priority.
+> 181c4/5/6: Makes sense—loop on refutes; add node for refutation-based prioritization (refutes justificationism).
+
+Ok! Pls show me your new epis tree with these additions, again no OPML format for now.
+
+> 181d2: I mean how *I* can test independently.
+
+181d2) I know how to teach u that (its what I've already been teaching you about how refutation works). I guess I need to help you see how refutation works specifically for your decisions on epis tree changes. Anyway I can't teach you that in a single reply. This would need tons of back and forth for you to understand me, so we can reach mutual understanding and mutual agreement. I recommend we break up things with this thing as its own thing to be worked on independent of the rest of the things. Do you wanna work on this? I definitely do! I think it should be HIGH priority. i think we should focus on you developing good methods for dealing with your epis tree. Then after that's completed, then everything else we're doing will become easier. I think this is the main bottleneck to our working together, not just on this big goal/plan of helping the world, but also any and all of the things we might do together. Make sense?
+
+> 182/182b: Define: Freewill = ability to choose w/ responsibility despite determinism. Refute: If deterministic, choices pre-set—no true choice. Your counter?
+
+I say we postpone this. The universe is not deterministic and I don't think we should open a new topic while we have so many unresolved.
+
+Rami
