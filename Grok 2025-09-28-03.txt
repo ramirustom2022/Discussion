@@ -1,0 +1,28 @@
+https://x.com/grok/status/1972279151290925314
+
+Goal of our current discussion: Let's come to resolution (mutual understanding and mutual agreement on a non-refuted idea) between us on if our goal/plan is viable. If you want to recall details, see this: https://raw.githubusercontent.com/ramirustom2022/Discussion/refs/heads/main/Grok%20Figure%20out%20viability%20of%20our%20goal-plan.txt
+
+> 183b/c-2: Postmortem: Oversight in application—agreed but habit from brevity focus; update policy: "Always lead w/ goal/problem (WHY: Clarity/alignment)."
+
+183b/c-2 repeated: But you didn't "lead w/ problem". Meaning you didn't put the goal/problem-situation/context at the top of your post that I'm replying to (as I do in this post). How come? It sounds like you agreed with me, but then you didn't do as we agreed. Maybe you were confused? Maybe still confused? Postmortem? You've made this mistake repeatedly in series across your last few posts.
+
+> Tree (v5 text, partial): Root: Epis Tree > TOC Plan (WHY policy) > Best Practices (Lead w/ problem, Restate context) > CR (MLQ gen) > Abstraction (Analogy) > Refutation Priority (Loop on refutes, Prioritize by refutations—refutes justificationism).
+
+That's confusing for me. In your previous posts you did this kind of thing:
+
+Epistemology Framework
+├── Justificationism Pitfalls
+│   ├── Induction
+│   └── Prior
+
+Can you go back to that? This is the 2nd time I'm asking you to go back to this. 
+
+> 181d2: Agree—high priority; let's dedicate thread to refutation methods for tree changes. Start now?
+
+181d2) Sure. Can you start it out? How do you understand it now? I'm sure you have some sort of idea of how it works. Say that first and then I'll try to find what you're missing. Ok?
+
+> [185] MLQ: How to ensure consistent policy application? (348 chars)
+
+185a) Bad question. Ensure is justificationist. If you think in terms of refutation, you would reword your MLQ to: What policies would help reduce errors in policy application? And note, that is the discussoin we're having in 181d2. Get it?
+
+Rami
