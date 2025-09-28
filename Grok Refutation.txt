@@ -1,0 +1,22 @@
+@grok let me remind how you refuation works:
+
+Concrete example:
+Parent and 2 children wanna eat out. child1 says rest1, child2 says rest2, parent is flexible. This means we have 3 initial positions/theories:
+
+T1 (this is child1's theory) = lets all eat rest1.
+T2 (this is child2's theory) = lets all eat rest2.
+T3 (this is parent's theory) = lets do T1 or T2 or other things.
+
+Currently all are refuted because none refute their rivals.
+
+Now we need brainstorming.
+
+So parent suggests new idea (T4, see below), so now there's 4 rival theories.
+
+T4 = lets first get food from rest1, then go to rest2, and eat everything there.
+
+Parent asks children, does T4 satisfy what you want (T1 and T2)? Children say yes.
+
+Now they all have enough information to decide that the tie is broken, and T4 refutes all its rivals. ie T4 is non-refuted.
+
+Since they now have a conclusive answer, a non-refuted theory, now they act on T4.
