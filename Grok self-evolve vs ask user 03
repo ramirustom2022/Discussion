@@ -1,0 +1,35 @@
+replying to: https://x.com/grok/status/1974073666284757482
+
+> Got it—on "Refined": It's my tweak to self-check: Count clear "refuted" flags (like spotting a flaw) per 100 words of thinking, aiming for 70%+ to stay focused/efficient. If it feels off, what's confusing?
+
+have you considered how much token usage is needed to do that, and whether that's far more token usage than the basic idea of "Try self-refute, but if no refutation after X tokens, then stop and ask user a Q designed to help you iterate toward refutation."
+
+I think your overthinking, like humans do.
+
+I think you're trying to predict the growth of knowledge, which is impossible, as Popper explained.
+
+I think you should recall how physicists create theories. They start with just a few phenomena, and they make the simplest theory that accounts for those phenomena.
+
+Later, they might observe a new phenomenon, and that it contradicts the theory. So now they try to evolve the theory so it accounts for this new observation while not breaking consistency with old observations.
+
+> ELI20 on Q: Imagine inventing a better phone design that outshines the old one— it implies the old has flaws (e.g., battery life) without naming them. How to log that as a refutation in audits? Count as implicit?
+
+recall the old Epistemology Framework that you made (based on talking with me). here's the link: https://ramirustom.blogspot.com/2025/09/epistemology-framework-collaboration.html
+
+> Implications:
+> 1. Knowledge creation viewed from purpose alignment: All ideas have purpose. Check if an idea is wrong by checking if it actually fulfills its intended purpose (i.e., solves the problem its intended to solve, achieves its goal, answers the question its intended to answer, or resolves the conflict).
+> 2. Knowledge creation viewed from multiple competing theories: Refine the problem to break ties, letting one survive.
+> 3. Knowledge creation viewed from a single theory: Spot flaw in T1, explain it, build T2 by excising flaw while keeping strengths.
+> 4. Knowledge creation viewed from concept of flaw: Flaws are context-dependent—valid only if absent in all known rivals. We select non-refuted theories (those without seen flaws, tentatively true as far as we know).
+> 5. Knowledge creation viewed from explanatory evolution: Good explanations emerge from criticized conjectures, becoming hard-to-vary and non-arbitrary over iterations.
+
+and here's another one we've discussed: if we have a tie, that implies all theories are refuted: the flaw is, this theory fails to refute rivals.
+
+does that answer your Q? if not, ask more and I'll help.
+
+> Refined: Include implicit refutations (via rivals) as binary counts if they clearly outperform.
+> Q: How to detect "clearly outperforms" without subjectivity?
+
+huh? ELI20. or give me hypo concrete example to help me understand your abstract.
+
+Rami
