@@ -1,0 +1,379 @@
+The Scientific Approach To Business and Non-Profits
+
+
+By Rami Rustom
+
+
+Preface
+
+The purpose of this article is to explain my proposal to improve Theory of Constraints (TOC), founded by Eli Goldratt.
+
+​​This article is a continuation of another article which gives more of the background history and is for a lay-person audience. 
+
+To be clear, I’m confident that if Eli read this article, he would say that all of the ideas fall into one of three categories: (1) things that he tried to communicate too but with different wording, (2) things he already knew explicitly but didn’t explain, and (3) things he knew intuitionally but not explicitly. And to clarify category 3, almost all of these ideas came from other thinkers, rather than from me.
+
+In other words, this article is a reorganization of existing knowledge. But why do we need a reorganization? Here’s a summary of why we need a reorganization (for details, see this reference material): As Albert Einstein said, “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.” And in my estimation, current business management practices, and more specifically, the practices of people who know something about TOC, including the educational practices that teach TOC to the next generation, are not good enough. The current situation results in confusions about TOC that cause stagnation instead of progress, and the only way to improve the situation is to improve our thinking. This means that people’s current understanding of the scientific approach, and it’s application to business management, needs to be improved. 
+
+Note that this reorganization is not the end. People will find areas of potential improvement in this article, paving the way for a better reorganization, one that does better at causing progress. 
+
+Note also that this reorganization is partially dependent on the current environment, factoring in people’s current misconceptions. In the far future, our common misconceptions will be different than today, and so a proper reorganization of this knowledge will stress different aspects of the scientific approach than what I’ve chosen for this article.
+
+
+
+Feedback and further error-correction
+
+I recommend that anyone who has questions, criticisms, doubts, suggestions for improvements, or whatever, to contact me so that we may learn from each other, thus improving my knowledge and yours. And since the goal should be that we all learn from each other, I prefer public discussion instead of private discussion so that others can contribute their ideas and also learn from our ideas. For this reason, I recommend that you post your ideas/questions to the r/TheoryOfConstraints subreddit, and I recommend that you tag me [link] so that I know that you’re asking me specifically. Or if your post is not related to TOC or business/organizations, then post to my subreddit r/LoveAndReason, and again, tag me please.
+
+
+
+
+Table of Contents
+
+What is the scientific approach?	3
+
+1. Fallibility	4
+
+2. Optimism	6
+
+3. Non-contradiction / Harmony	7
+
+4. Goals/Problems/Purpose	8
+
+5. Conflict-resolution	9
+
+6. Evolution	10
+
+7. The role of criticism	11
+
+8. The role of tradition	16
+
+9. Modeling	18
+
+10. Harmony between people	22
+
+
+
+What is the scientific approach?
+The scientific approach traces back to the pre-Socratics of Ancient Greece. 
+
+Over the past 2,400+ years, people improved this body of knowledge by building on past ideas, including correcting errors in them.
+
+This body of knowledge leaked into practically all fields of human endeavor, while also improving within many of the fields. One such field was business management.
+
+Henry Ford, founder of Ford Motor Company, used the scientific approach to model his business in order to drive progress. Taiichi Ohno, father of the Toyota Production System and creator of LEAN manufacturing, also used the scientific approach (which included building on Ford’s ideas). And since then, Eli Goldratt, and a few others after him, continued this endeavor to advance the field of business management.
+
+Below are 10 principles and their associated methods describing the scientific approach. I include many concrete/practical examples designed to illustrate how these ideas apply in business management.
+
+Note that the principles and methods do not stand alone; they are all connected. Try to think of every part (each principle, each method) as being connected to the rest of the system (the scientific approach).
+
+1. Fallibility
+Fallibility was one of the earliest concepts that started the wave of ideas that became known as the scientific approach.
+
+Fallibility says that we’re not perfect. Our knowledge has flaws, even when we’re not currently aware of those flaws. Socrates said, “I know that I know nothing.” What he meant was, “I [fallibly] know that I [infallibily] know nothing.” 
+
+This is what Eli Goldratt meant when he said “Never say you know.” What Eli meant was, “Never say you [infallibly] know.” In other words, never say that you can’t possibly be wrong. Never say that you’re absolutely sure or certain. Never say that your idea is guaranteed to work. Never say that your idea doesn’t have room for improvement. Never say that there can’t be another competing idea (that either exists now or doesn’t exist yet) that is better than your own.
+
+All of our knowledge is an approximation of the perfect truth. There’s always a deviation, an error, between our theories and the reality that our theories are intended to approximate. Our pursuit is to iteratively close the gap between our theories and reality. 
+
+Since Ancient Greece, people have asked the question: How can I be absolutely certain that my idea is right? In other words, how can I be absolutely sure that my idea is right before I act on it? This question reveals the motivation these people had. They sought certainty. But it’s confused because, as Karl Popper explained, certainty is impossible [see his book In Search of a Better World: Lectures and Essays from Thirty Years]. Popper explained that we should instead be asking: How can I operate in a world where certainty is impossible? Popper’s view was that we should replace the search for certainty with the search for explanatory theories and error-correction. Popper was on the right track, but a bit misleading. Searching for explanatory theories and error-correction is a means to an end, not an end in itself. The end goal should be conclusivity. So we should replace the search for certainty with the search for conclusivity. This is an improvement made by Elliot Temple [link]. This understanding has not spread widely. People today still want certainty and so they don’t know how to operate in an uncertain world, and this of course has damaging effects.
+
+Consider what happens when a person tries to communicate an idea without this fallibility concept in mind throughout the process. He will say something and assume that the other person understood it without the possibility of error in transmission. If he instead recognized that there’s error in transmission, he would not assume that the other person understood. He would instead do things like ask the other person to explain the idea in his own words so that the first person could check it for misunderstandings. And he would be ready to clarify for the other person, with no frustration whatsoever, if they indicated that they didn’t understand (e.g. they had a confused look on their face). This is how to deal with the inherent uncertainty in the transmission of an idea from one person’s mind to another. The goal is to reduce the error in the transmission process such that the outcome is good enough for our current purposes.
+
+One of the TOC experts, Eli Schragenheim, explained this problem of people not accounting for uncertainty. In his article The special role of common and expected uncertainty for management, Eli explained: “The use of just ONE number forecasts in most management reports demonstrates how managers pretend ‘knowing’ what the future should be, ignoring the expected spread around the average. When the forecast is not achieved it is the fault of employees who failed, and this is many times a distortion of what truly happened. Once the employees learn the lesson they know to maneuver the forecast to secure their performance. The organization loses from that behavior.” In my understanding, the core of the problem is that these people do not understand one of the most core aspects of the scientific approach. Fallibility is not yet thoroughly engrained into every part of their mind – intellect and intuition/emotion. If it was, they would know how to operate with the inherent uncertainty of our knowledge. They would know to use forecasts with error estimates. And they would not rush to blame employees for not meeting forecasts and instead would use the scientific approach to discover the root causes of the events they’re experiencing. Usually the root causes are systemic phenomena related to the policies and culture of the entire company, not just the one employee, and usually it goes all the way up to the top, the CEO and the board of directors.
+
+The concept of fallibility led to a few other things that spread pretty widely. Consider the concepts known as “benefit of the doubt” and “innocent until proven guilty”. Both of these ideas are commonly used in judicial systems, but they’re also commonly used in social situations, like among friends. But these concepts are not being implemented in the scenario quoted in the above paragraph. Management is not giving employees the benefit of the doubt and they’re not treating them as innocent until proven guilty. Guilt is just assumed.
+
+Another idea that is used in judicial systems, and was born from the concept of fallibility, is the idea of allowing convicted criminals to appeal their convictions. This feature was implemented because people understood that any verdict by a judge/jury could have been incorrect, and a future judge/jury could correct that mistake.
+
+More generally, the policy of allowing appeals is part of a broader thing called “rule of law” – as opposed to “rule of man”. The underlying logic is that citizens should be ruled by the law of the land rather than by specific people. We don’t want the particular biases and blindspots of a few individuals to negatively affect everyone. To avoid that outcome, we created government institutions designed to combat people’s biases by holding the law higher than any individual person. By the same logic, good businesses act the same way. The leaders try to set up rules that everyone in the company is expected to follow, including themselves. A good CEO will not implement new company policies while his team disagrees with those policies – instead, the company has a policy that says “we make company policies in a way where the whole team is onboard”. Notice how this policy does not rely on the ideas of the particular person currently sitting in the CEO seat. If a CEO tried to circumvent this policy, an effective board of directors would recognize the CEO’s grievous error and replace him with someone who respects the rule of law.
+
+
+
+2. Optimism
+Optimism says that we have the ability to create knowledge, to get closer to the truth, without ever reaching perfection.
+
+It says that all problems are solvable, and all of us have the capability to solve any problem that any other person is capable of solving, the only limit being our current knowledge.
+
+It says that we can always arrive at an idea that we judge to be better than our current idea. We can always make progress.
+
+The laws of nature do not prevent us from making progress, and we can do anything, literally anything, except break the laws of nature (I mean the actual laws of nature, not our current flawed theories about nature). This was explained in the book The Beginning of Infinity, by David Deutsch. 
+
+An important aspect of this is that when a person is doing something wrong, it is caused by a lack of knowledge. Better knowledge would change their mind, and thus, their actions. 
+
+My explicit understanding of optimism comes mainly from David Deutsch, but many giants before him had similar ideas, namely Karl Popper [link]. Eli Goldratt called this idea Inherent Potential, known as the 4th TOC Pillar [link]. Notice that fallibility (the above section) and optimism (this section) are combined into one TOC pillar.
+
+Consider the consequences of a lack of optimism in a person. He will not put in the effort to try to solve a problem that, in his view, he’s incapable of solving. It will manifest as a lack of curiosity. A lack of honesty.
+
+An optimistic person is someone that intuitionally knows to think and act and have all the emotions that manifest as part of living optimistically. Optimism is developed by a long chain of successful learning experiences spanning one’s entire lifetime.
+
+Karl Popper expressed it better than I can. “I think that there is only one way to science – or to philosophy, for that matter: to meet a problem, to see its beauty and fall in love with it; to get married to it, and to live with it happily, till death do you part - unless you should meet another and even more fascinating problem, or unless, indeed, you should obtain a solution. But even if you obtain a solution, you may then discover, to your delight, the existence of a whole family of enchanting though perhaps difficult problem children for whose welfare you may work, with a purpose, to the end of your days.” Realism and The Aim of Science.
+
+
+
+3. Non-contradiction / Harmony
+One of the ideas that was fleshed out from the above line of thinking is that there are no contradictions in reality. Reality is harmonious with itself. No law of nature can contradict another law of nature. If there is a contradiction between our theories about nature, that implies a mistake in our theories, not a contradiction in nature. This is known as Inherent Consistency/Harmony, the 2nd TOC pillar [link].
+
+This is why people came up with the idea that if there is a god, there must be only one god. If there were many gods, that implies that there could be contradictions between them, and that doesn’t make any sense. This is another way of saying that knowledge is objective – there’s only one truth, only one true answer for any sufficiently non-ambiguous question.
+
+One way that this non-contradiction idea manifests itself is in how people in the hard-sciences judge empirical theories. An empirical theory is a theory that makes empirical predictions. If the predictions contradict reality, that implies that there’s a mistake we made, either in the theory, or in our interpretation of the empirical evidence, or somewhere else. Scientific experiments are designed to expose this kind of contradiction. This idea goes back to Ancient Greece. The idea was as follows: we should check our empirical theories to see that they agree with the reality that they supposedly represent, and reject the ones that don’t agree.
+
+Another way that this non-contradiction idea manifests itself is in how people judge any kind of theory, empirical or non-empirical. We seek out theories that are consistent with themselves, meaning that they do not have any internal contradictions. A single contradiction in a theory implies that the theory is wrong. But we must always be aware of the everpresent possibility that our judgement, that there is a contradiction in a theory, could itself be wrong.
+
+
+
+4. Goals/Problems/Purpose
+
+Every idea has a purpose, a goal, a problem that it's intended to solve. And one of the ways to judge an idea is to check that it actually achieves that purpose/goal, in other words, that it actually solves the problem that it’s intended to solve.
+
+In physics, the purpose of a physics theory is to explain a part of reality to the best of our knowledge. The part of reality that physics deals with is phenomena that do not factor in things like human emotions or decision-making. In business, the purpose of a business theory is to explain an entire organization and how it interacts with other organizations. This kind of theory necessitates factoring in things about the human mind. For example, we must have a working model of the human mind that explains the relationship between emotion and logic and their roles in decision-making.
+
+Another difference between physics and business is that in physics we don’t usually have time constraints as part of the goal, while in business, time constraints are all over the place. One case where we did have time constraints in physics was when the US was creating the atomic bomb with the aim of ending the second world war.
+
+But to be clear, physicists use time-saving methods all the time even when there isn’t a time constraint builtin to the overarching goal of the physics research. Physicists use heuristics/shortcuts/rules of thumb a lot. It’s done as a convenience. They would rather not do complicated math when they could instead use a shortcut that is good enough for their current purposes.
+
+
+
+5. Conflict-resolution
+The scientific approach is a process of resolving conflicts between ideas. We look for conflicts between our theories and reality, between our theories, and within our theories, and then we try to create new theories that do not have the conflicts that we saw in the earlier theories.
+
+Any problem or goal can be expressed as a conflict between ideas. And the solution can be expressed as a new idea that resolves the conflict.
+
+Eli Goldratt created the “Evaporating Cloud” method for resolving conflicts of ideas [link]. The method hinges on the idea that there is a hidden, and false, assumption underlying at least one of the conflicting ideas, and that revealing it (and putting it in the cloud diagram) helps us see that it’s mistaken, thus bringing us one step closer to finding a solution. Part of the process involves identifying the goals of the ideas in conflict, including the shared goals that all the involved parties have.
+
+Consider an example of a toddler turning over a cereal box on the kitchen floor and his parent says “no you can’t do that”, then he takes the box away, leads the child out of the kitchen to his room to play with his toys, and cleans the mess up. Suppose the parent is trying to cook and needs the kitchen floor to not have cereal everywhere. This indicates a conflict. The parent’s general preference for not having a mess on the kitchen floor while cooking is reasonable, but their approach to dealing with the child in this specific instance is not reasonable. The parent is not being helpful and is not even trying to understand what the child is trying to accomplish. The parent is not trying to resolve the conflict. He’s not trying to create mutual understanding and mutual agreement. He’s not trying to find a solution that everyone involved is happy with. Now it could be that the child wants to see what happens to the cereal when he flips the box over - he’s trying to learn - and let’s suppose that the parent wants his child to learn too. So this is a goal that both the parent and child share. Now consider that if the parent had instead put some creativity toward understanding the child’s goal, he would have the opportunity to figure it out, and if he succeeded, he’d put some more creativity toward proposing a new way to solve the same problem (achieve the same goal), such that the parent and the child would be ok with the new proposal. For example, the parent could suggest flipping over the cereal box in a bathtub or box instead of the kitchen floor. Notice how the Evaporating Cloud method applies here; the parent tries to expose the child’s goal of flipping over the cereal box (to discover what happens when a cereal box is turned over), and the underlying goals that they both share (both parent and child want the child to learn), in order to find a solution that resolves the conflict.
+
+
+
+6. Evolution
+Karl Popper made a revolutionary discovery that corrected a ~2,300 year old mistake made by Aristotle that almost everybody after him had been misled by (also some people partially recreate that mistake independently). Even many scientists have been misled. The body of knowledge that was built on top of Aristotle’s mistake became known as Justified True Belief (also known as foundationalism). In short, the idea is that we must provide positive support to our ideas in order to consider them good enough to act on – in order to consider them knowledge. 
+
+Popper’s discovery identified why this is wrong and he explained the correction. He figured this out while studying how scientists over the centuries had created their theories. He was trying to figure out the core difference between science and pseudo-science. He discovered that knowledge-creation is an evolutionary process of guesses and criticism with the same logic as genetic evolution [see his book Conjectures and Refutations]. We make guesses about the world and rule out the bad ones with criticism, leaving some guesses to survive, while also setting the stage for another round of new guesses. 
+
+In genetic evolution, gene variants are created, and the “unfit” genes are not replicated (or replicate less than their competitors), resulting in those genes eventually ceasing to exist in the gene pool. In idea evolution (or memetic evolution), meme variants are created, and the “unfit” memes are not replicated (or replicate less than their competitors), resulting in those memes eventually ceasing to exist in the mene pool. 
+
+Like with genetic evolution, the new memes (guesses) are descendants of older ones such that the descendants do not have the flaws pointed out by the criticisms of the ancestors.
+
+Aristotle’s mistake manifests in many ways. Here are two examples:
+
+There’s a super common thing people do in decision-making where they want something, usually based in emotion, and then they try to create “rational” arguments to provide positive support to their idea. But this is not rational. It’s pseudo-science. Notice how this method ignores whether or not a conclusive state has been reached. The correct way to arrive at a decision is to try to criticize our ideas in search of conclusivity, in search of ideas that we do not see any flaws in. It includes considering all known criticisms of the idea and all known competing ideas, and it includes searching for new criticisms and competing ideas.
+
+Another common thing people do in decision-making is they try to use statistical methods to judge the probability that a theory is true, while ignoring whether or not a conclusive state has been reached – where one theory refutes all of its rivals. These people are trying to provide positive support to their ideas instead of criticizing them. Note that all the work on AGI, as far as I know, hinges on this false premise that Aristotle created, and so without the correction by Popper, the efforts to create AGI, in the sense of creating a software that replicates human intelligence, will fail [see David Deutsch’s article Creative Blocks].
+
+
+7. The role of criticism
+So the scientific approach is a series of guesses and criticisms.
+
+One of the roles of criticism is that it helps us improve our guesses. In this sense, criticism is positive because it provides opportunities to improve. Another role of criticism is that it helps us reject our bad guesses. And when we combine both roles together, what we get is a two-in-one: (1) reject our bad guesses, and then (2) make better guesses that do not have the flaws pointed out by the criticisms of the earlier bad guesses.
+
+But what exactly is criticism, and how can we identify it? Here are three equivalent definitions that focus on different aspects:
+
+A criticism is an idea which explains a flaw in another idea.
+
+A criticism is an idea which explains why another idea fails to solve the problem that it’s intended to solve.
+
+A criticism is an idea which explains why another idea fails to achieve its goal.
+
+Note that in any given situation where you have a criticism, you should be able to translate between these definitions.
+
+There are some types of criticism that deserve attention:
+
+Criticisms directed at one person’s understanding of another person’s ideas: We should criticize our own interpretations of other people’s ideas before attempting to criticize their ideas. We could also get help from the other person with our goal. This is the same as saying that we should understand an idea before criticizing it.
+
+Criticisms of positive ideas/arguments/etc: A criticism of a positive idea or argument should explain how the positive idea/argument fails to achieve its goal. 
+
+Criticisms that are directed at other criticisms: One example is: Suppose someone says that an idea has a flaw. So I ask, does this flaw prevent the goal from being achieved? If they say ‘no’, then it’s not a flaw. Check the 3 definitions of criticism above. You have to be able to translate between them. A flaw in an idea implies that the idea cannot achieve its goal.
+
+Criticisms that incorporate empirical data: A piece of empirical data alone cannot constitute a criticism. In other words, it cannot constitute evidence. The data must be interpreted in the light of a theory that explains how to interpret the empirical data. The criticism (or evidence) is the interpretation of the empirical data. Data without interpretation is meaningless. 
+
+
+Vagueness or ambiguity as a criticism
+
+The quality of being vague or ambiguous can be used as a criticism:
+
+Your sentence (idea) is vague. I can’t make an interpretation that I think represents your idea.
+
+Your sentence (idea) is ambiguous. I can think of many possible interpretations that match your sentence and I don’t know which one you intended.
+
+This scenario can be improved whereby the person explains his idea in more detail, enough to satisfy the person who found the initial idea vague or ambiguous. And of course the other person can prompt the first person by asking clarifying questions to better understand the idea that he initially found to be vague/ambiguous.
+
+Note that one of the unstated goals of the idea being criticized is that it should be understood by the other person. This is the case in most contexts. But in the case that this wasn’t one of the idea’s goals, then the quality of being vague or ambiguous isn’t a flaw, and the criticism is mistaken. We could criticize that criticism with: “No, vagueness/ambiguity isn’t a flaw because one of the goals of my idea was that people would not be able to understand it. So it’s a feature, not a bug.”
+
+What if people complained that an idea needs more clarity without end? They’d be making a mistake because more clarity isn’t always better. As Eli Goldratt explained, more is better only at a bottleneck; more is worse when it’s at a non-bottleneck. If vagueness is a current bottleneck, then more clarity helps. If vagueness is not a current bottleneck, then putting more effort into clarity makes things worse (because you’re spending your time on things that won’t cause progress instead of spending your time on things that will cause progress).
+
+In other words, if the current level of clarity of an idea is not enough to prevent the idea from achieving its goal, then there’s no reason to put more effort into making the idea clearer. We should only put in more effort if the current level of clarity of the idea is causing us to not achieve a goal.
+
+So to reiterate, vagueness or ambiguity are only flaws if the vagueness or ambiguity of the idea is causing the idea to fail to achieve its goal.
+
+
+Criticism breaks symmetry
+
+Sometimes our criticisms are not clearly stated, but the facts (the “state of the debate”) imply one or more criticisms, which should then be stated and incorporated into the knowledge-creation process.
+
+Consider the example where we have two rival theories (T1 and T2) and each of them fails to explain why it’s better than its rival. This implies two criticisms:
+
+Criticism C1: Theory T1 is wrong because it fails to explain why it's better than T2.
+
+Criticism C2: Theory T2 is wrong because it fails to explain why it's better than T1.
+
+In this scenario, there is symmetry between the rival theories, and what we need is asymmetry. So at this point both theories should be rejected. And the way to resolve the conflict is to find a way to differentiate them with a criticism that points out a flaw in one of them but not the other. This could come in the form of a new feature of one of the theories which the rival theory does not have. This means that we have a new theory, T3. Not having a crucial feature is a flaw, if the context is that another rival theory does have that feature. This breaks the symmetry between the initial theories and now we can adopt T3.
+
+This raises the question of how to determine whether or not two theories are in fact rivals. The way to judge that is to investigate the goals of the rival theories in order to check that they’re intended to achieve the same goal. If so, they are rivals, otherwise, they are not rivals. And again, our judgement that two theories are rivals, or not, is a fallible judgement, meaning that we could be wrong about that judgement.
+
+
+Criticism can be hidden in suggestions
+
+People often encounter criticism in the form of suggestions without realizing that it is criticism. Consider the scenario where somebody tells you a suggestion to do something other than what you’re currently doing. That implies a criticism. He’s saying that your idea does not work and their suggestion does work, or that their suggestion works better than your idea. 
+
+The suggestion may come with an explanation, but even if it doesn’t, the person may have the explanation ready to provide to you if you prompt him for it. Or if he doesn’t have that either, he may have an intuition underlying the suggestion, and he could convert that intuition into an explanation. 
+
+It’s your job, if you choose to accept it, to put effort toward understanding the criticism. That usually requires that you improve the criticism beyond the original understanding of the person who gave it to you. Since you know more about your situation than he does, you’re in a better position to incorporate his critical advice into your context. 
+
+
+A single criticism is enough to reject a theory – there’s no ‘weighing’ involved
+
+You may have noticed that all of the explanations in this document imply that just one criticism is enough to reject a theory. There’s no “weighing” involved. We cannot differentiate between rival theories by seeing which one has fewer criticisms against it, or which one has more “positive support”, or some mix of the two. Doing so means accepting a contradiction. It is pseudo-science.
+
+These confusions were born from the mistake Aristotle made (mentioned in the above section) and it has led a lot of people down an incorrect path where they think “weighing” theories is a reasonable way to differentiate between rival theories. They think that “weighing” theories can give us a degree of certainty, allowing us to select the theory that has the highest degree of certainty.
+
+More sophisticated, yet still wrong, approaches have been created from this false premise where people think they can use probabilities to judge the likelihood of rival theories being true, and then select the one that is more likely. It’s all arbitrary nonsense. These people have misunderstood Bayes’ theorom [link], by Thomas Bayes. The theory is purposed for calculating the probabilities of events occurring given a particular theory, and that means that the validity of the probability figures depends on the accuracy of the assumptions of the underlying theory that was used to calculate the probability figures. None of this helps us calculate the probability that a theory is true. These people are trying to pick a “winner” among rival ideas without resolving the conflict between them. Effectively, it is a way to maintain existing conflicts… to avoid conflict-resolution. It is pseudo-science.
+
+
+Reusable criticisms
+
+As we evolve, on an individual scale and a collective scale, we continue to create new types of criticisms that worked well in the past, which should then be reused afterward. This means that a person’s set of reusable criticisms increases over time. The same thing is going on with our methods of creating models (see Section #9 Modeling). The methods are reusable, and the set of methods is increasing over time.
+
+Consider that in judicial systems, namely the US judicial system which is an extension of the English judicial system going back to the 13th century, judges have created “rules of evidence” that allow them to identify whether or not a piece of evidence should be adopted or rejected. These rules are reusable criticisms that judges have been cataloging and improving for 800+ years.
+
+In TOC, Eli Goldratt coined the term Categories of Legitimate Reservations (CLRs). The concept is designed to help in the creation of models of cause-and-effect networks. It helps in the error-correction process. CLRs are reusable criticisms [link to TOC CLR page]. 
+
+
+How people misunderstand the concept of criticism, and why they dislike it
+
+So many people today dislike criticism because they do not thoroughly understand the role of criticism in all human endeavor. They don’t like being criticized by other people, and this often results in resisting criticism that they receive. It also causes them to resist giving criticism, for fear that it won’t be received well by the would-be receiver (oftentimes projecting their own bad psychology onto the other person). If they instead thoroughly understood the role of criticism in all human endeavor, they would love criticism for what it is. Criticism allows progress; lack of criticism causes stagnation.
+
+One factor that causes people to develop a dislike for criticism is that their parents and the rest of society gave them criticism in a bad way, and they created coping mechanisms to deal with it, thus internalizing the external pressures. So many people criticize without understanding the goals of the ideas being criticized, and they often layer it with anger/shame/dirty looks/raising their voice, which they wouldn’t do if they thoroughly understood the role of criticism. These people are criticizing ideas that they don’t even understand. Criticism of an idea can only be effective if you first understand the idea that you’re criticizing. You can’t point out a flaw in an idea that you don’t even understand yet, but people try to do it all the time. 
+
+Consider the example of the toddler turning over a cereal box (details in section #5 Conflict-resolution). The parent is treating the child badly. He’s not trying to resolve the conflict. He’s not trying to find out what the child is trying to accomplish. Instead he just gives a criticism that does not factor in the child’s goal; the parent said, “no you can’t do that [because it gets in the way of my cooking]”. Years of this sort of treatment reliably result in children developing a hate for criticism.
+
+People who dislike criticism are of the type to see themselves as static beings. They dislike criticism because they (in their view, whether it’s explicit or just intuition) can’t change themselves in order to fix the flaws explained by the criticism. They do not have a thorough understanding that all problems are solvable or that they’re capable of solving any problem. In contrast, the rest of us see ourselves as dynamic beings. We recognize that a person is a system of ideas, and any idea can be changed. We love criticism because we know that we can change ourselves in order to fix the flaws explained by the criticism. Note that for people who have the belief that they can’t change, the belief effectively becomes a self-fulfilling prophecy. If you believe you can’t change, then you won’t put in the effort to change, and thus you won’t change. You may change anyway, but that’s because you inadvertently put in effort without it being part of your life plan.
+
+Another factor causing people to dislike criticism is related to how people view rejection and failure. Consider a new salesperson who gets discouraged because his first attempts to make a sale had failed. Sales managers try to correct this bad psychology by explaining that the learning that happens during and after a rejection is what causes progress in the big measurable goals. Consider that an astrophysicist looking for earth-like planets does not get discouraged when they point their telescope in space and don’t find what they’re looking for. Consider also that when that happens, they’ve narrowed down the landscape a bit, so they have definitely made some progress with that “rejection/failure”. The point here is that failure is not bad. What is bad is not doing everything we know about how to learn from our failures. 
+
+Yet another factor causing people to dislike criticism is their narrow view about progress. When considering the example of the astrophysicist in the above paragraph, most people would not recognize a failure to find an earth-like planet as a unit of progress. They vaguely conceptualize progress as being huge. And they think of progress as only happening if there’s a visible success, like having found an earth-like planet. They don’t know how to recognize our baby steps as progress toward a goal. They don’t recognize that each baby step is an achieved goal that brings us closer to achieving a larger goal.
+
+8. The role of tradition
+Another crucial aspect of the scientific approach is tradition. A tradition is an idea (a guess) that has been criticized, and thus improved (because many flaws were fixed), by many people before you. The point of explaining this is that when we are comparing a brand new idea to a tradition, where they are rivals, the tradition has already been improved through a lot of criticism while the brand new idea has not yet been subjected to the same error-correction efforts. Could it be that the new idea is better than the tradition? Yes that’s possible, and this possibility is why knowledge can progress. But the point here is that the brand new idea should be subjected to the same criticisms that the tradition was subjected to, and it must survive them, and it must provide a new criticism of the tradition while the new idea must survive that criticism, all before concluding that the new idea is better than the tradition.
+
+There is a common mindset in the West today that causes people to have a disrespect for tradition. If something is old, they assume its bad compared to something new. This is against the scientific approach. It’s pseudo-science. No scientist creates a successful scientific theory in a vacuum where he ignores the previous scientists that did work in the field. Nobody could create knowledge that way. We must stand on the shoulders of the giants that came before us in order to surpass them! We cannot surpass them otherwise. This is what Isaac Newton, and many before him, meant when they said, “If I have seen a little further, it is by standing on the shoulders of giants.”
+
+TOC explains an aspect of this with the article Six Steps to Standing on the Shoulders of Giants, by Lisa Ann Ferguson. Note step 3: “… Gain the historical perspective - understand the giant's solution better than he did.” The giant’s solution is a tradition, and it’s our job to understand that tradition better than he did, so that we can create an idea that is better than the tradition.
+
+This understanding has applicability far beyond just the case of dealing with a giant’s theory and our proposal replacement. Here are three examples:
+
+A child rejects his parent’s ideas without trying their best to understand those ideas. It is arrogance. I fell victim to this. I’ve since corrected it and now anytime my parents have something to teach me, I listen, and I ask clarifying questions until I finally understand their idea such that I’m able to explain it back to them in a way that they agree that my rephrasing matches their version. I often disagree anyway because I see a flaw that they do not see, and other times I agree with them and adopt their view. 
+
+A business manager launches an initiative that affects everyone in the company, yet ignores the knowledge of the downline workers. Those workers have traditions related to their work that are not known by management, which is a natural outcome because management personnel are not working alongside the employees. And so the manager’s initiative might be contradicting the knowledge in those traditions, and if that’s the case, that means damaging effects – people working at cross purposes, and fewer goal units achieved.
+
+Regarding conflicts between intuition and intellect, there are two common approaches: (1) side with intellect and ignore intuition, or (2) side with intuition and ignore intellect. The first one is a case of disrespecting tradition (your intuition). The second one is a case of blindly adopting tradition. Both of these are wrong. Note that in both cases, nobody is even attempting to resolve the conflict. Instead they are picking a “winner” despite the conflict not having been resolved. They are picking a side without knowing which side is the better one. They are picking arbitrarily. The proper approach is to integrate our intellect with our intuition so that the conflict vanishes. This could be because we improved our intellect, or improved our intuition, but usually it means that we improved both.
+
+I created a visual to help explain the knowledge-creation process. Note the “library of criticism” (reusable criticism) and “library of solutions”. These are traditions. Note also the “library of refuted ideas”. These are ideas that failed in the past, which can then be reused (with changes).
+
+ 
+
+
+
+9. Modeling
+One crucial aspect of the scientific approach is modeling. 
+
+In all human endeavor, we’re always working with a model of reality, whether we know it or not. We’re never in a situation where we’re dealing directly with reality. We can only “see” reality through the lens of our models. 
+
+Either the model one is working with is explicit, which makes it easy for them to improve it, or it’s a hidden model, a set of intuitions incorporating some hidden assumptions, which makes it difficult to make improvements to. While human thinking can and does progress in this way, a much better method was provided to us by Isaac Newton.
+
+
+
+Cause-and-effect logic
+ 
+Newton was one of the first people to model the world as a system of parts. And he was one of the first to investigate the logic of many types of systems. 
+
+Newton explained that all real systems have interdependencies between their parts, in other words, cause-and-effect relationships.
+
+He explained that as the number of interdependencies between the parts of a system increases, the number of parts that govern the whole system decreases. You can put this on a graph, where the X-axis is the number of interdependencies and the Y-axis is the number of parts that govern the system. You would see a logarithmic curve starting at the top left and going down quickly initially, then tapering off, and then becoming a horizontal line as we go towards a larger X.
+
+ 
+
+
+Joseph-Louis Lagrange investigated systems that were at the extreme end of this. He explained that as X approaches infinity, Y approaches the limit of exactly one part which governs the whole system. In chemistry we call this the limiting factor. Goldratt uses the terms constraint, bottleneck, critical path, and so on, to describe the governing (or throttling) part of various types of systems.
+
+Imagine a system with zero interdependencies between the parts. Consider what happens to this system if you adjust one part of it. That adjustment won’t have any effect on the rest of the parts. This is the only kind of system where it’s accurate to say “the whole equals the sum of its parts”. For all other systems, where there are one or more interdependencies, instead we have the famous saying, “the whole does not equal the sum of its parts.” 
+
+As Newton explained, all real systems have lots of interdependencies. For any given set of phenomena, there are a relatively few number of phenomena that are causing the rest of them through a network of cause-and-effect relationships. This is what is meant by the term Inherent Simplicity, the 1st pillar of TOC [link].
+
+Vilfredo Pareto was investigating systems that have some interdependencies, meaning not at the extreme end. This does well modeling many things in reality, for example, an economy, or how a person should choose how to spend his time among all of the possible ways he could spend it. Pareto explained that 20% of the parts of the system are governing the other 80% of the parts. This is now known as the Pareto principle or the 80/20 rule. The 20% and 80% are a bit arbitrary. Some systems like this are 30%/70% or 10%/90% or anything around there. The point isn’t the specific numbers, but rather the logic. Consider the scenario of somebody choosing how to spend his time. Out of all the things that they could be doing, most of those things either make things worse, or slightly better, while only a few things could have the effect of making huge progress. I mention all of this because tons of people mistakenly apply the Pareto principle to systems that are not the kind of systems that it applies to, or they mistakenly criticize the Pareto principle for not applying to systems that it does not apply to. 
+
+
+Symptoms of not understanding cause-and-effect logic 
+
+This process of modeling cause-and-effect networks is all very sophisticated and the vast majority of people do something very opposite. Four ways that this manifests are as follows:
+
+‘More is usually worse’: Many people operate by a hidden assumption that if more of something is good, then even more of it would be even better. Eli Goldratt explained why this is wrong. It’s a case of focusing on local optima without regard for how your actions will affect the global optima. More ‘local’ is only good if that results in more ‘global’. So there’s a breaking point, a threshold. More is better, as long as it’s at a bottleneck of the whole system. More is worse if it’s a non-bottleneck of the system. In other words, more of a thing is better until a threshold is met; the threshold is met when that thing switches from being a bottleneck to being a non-bottleneck.
+
+‘Correlation is not causation’: People will see a correlation between two phenomena, X and Y, and then, using their intuition which incorporates some unstated assumptions, will conclude that X causes Y or that Y causes X and they won’t provide an explanation for the causal link. They don’t recognize the possibility of other cause and effect relationships like X causes A which then causes Y, or X and A combined causes Y, etc. The fact is that there are an infinite number of other guesses we could make about cause and effect relationships that, if true, would cause X to correlate with Y. This is why scientists try their best to check their assumptions about cause and effect relationships. They try to make explicit models, criticize those models, including running experiments, that allow them to check these guesses one at a time, allowing them to rule out their incorrect cause-and-effect guesses, adopting only the guesses that survive all of their criticism.
+
+‘Evidence does not select a theory from many’: The common conception about evidence is that it allows us to select a single theory from many. This is incorrect. Evidence can only work to rule out some theories from many possible theories (known or yet unknown), necessarily leaving more than one theory. There’s always an infinite number of possible theories that agree with all of the available evidence. This is why in a murder case a forensic expert will say things like, “the damage to the head is consistent with a blow by a hammer.” He’s not saying that the damage to the head implies a blow by a hammer. What he’s saying is that a blow by a hammer is a possible theory which the evidence does not rule out, but of course there are other possible theories that agree with that evidence. And this is why a defense lawyer just needs to present another possible theory that also agrees with all of the existing evidence, in order to defend against the prosecutor’s theory.
+
+‘Limitations lifted but still using the rules designed for the old limitations’: A super common thing people do is they create rules for their current environment and then they don’t change their rules when their environment changes such that some old limitations have been lifted. They continue acting as if they’re operating in the old environment. Part of the problem is that some of the rules are not known explicitly; instead they exist in the form of intuition/emotion. Consider two extremely common examples: 
+
+A child is raised by abusive parents. He creates rules for himself to deal with the abusive environment. Then he grows up, becomes financially independent, and now he’s in an environment with no parental abuse. This raises a question. Does the person change the rules that he created for himself while he was in the abusive environment? The vast majority of people do not. They continue operating with the old rules. For example, they will assume that somebody who is trying to help them is just trying to hurt them. They will be overly suspicious, aka paranoid. What’s needed is scientific thinking but they don’t have the necessary skill to do that. This is why they need professional therapy – to help them learn to think scientifically about their own mind and about their interactions with other people.
+
+A company does a TOC implementation, but some of the managers continue applying some of rules that were designed for the old environment, which actually means sabotaging the TOC implementation. They do things like create hidden buffers (a type of dishonesty) to protect themselves from being fired for not meeting targets. It’s a type of compromise. Getting fired for not meeting targets is the kind of thing that would happen in the old environment, but would not happen in the new environment – TOC advocates against firing people for not meeting targets and instead advocates firing people only if they don’t follow the rules.
+
+
+Model building process
+
+When someone creates a model intended to approximate a set of known phenomena, one feature that the theory must have is that it predicts other phenomena that are yet unknown. And one of the major ways to check the theory is to check that those other predictions are correct. We run further experiments designed to check if these other predictions agree with reality. 
+
+This process must be done in an iterative way. We start with the simplest model that accounts for a small subset of known phenomena. Then we check it for accuracy before moving on to the next iteration. Then with each iteration after that, we are adding a new element to the model (or changing an existing one) designed to account for all of the previous phenomena plus the additional one. Note the evolutionary aspect of this process. All of this is to explain that we need baby steps, not large sweeping changes with no checking in between. With each baby step, we are creating knowledge which sets the stage so that we’re able to make the next baby step. If you instead tried to do 10 steps all in one giant leap, and then you get a result from an experiment that contradicts your theory, there’s no way for you to know which of the steps had the error. I learned this model-building technique from Kelly Roos, one of my physics professors at Bradley University.
+
+Another area where we build models is in understanding any problem. We have to build a model that accurately describes the problem. And one of the questions that we must ask ourselves is: What principles are relevant to this problem? I learned this question from Kevin Kimberlain, my favorite physics professor at Bradley University. When I was exposed to this question, I didn’t know that it has applicability outside of physics. But of course it does. It applies to all problems, not just physics problems.
+
+As an example, consider that many physics problems require an understanding of the conservation of mass and energy. In some cases (like a chemical reaction, or an object escaping Earth’s gravity) this principle allows us to create an equation like so: Energyinitial = Energyfinal, and this sets the stage for the rest of our work on the problem because now we have a math formula to work with. Other relevant principles here are fallibility, optimism, and non-contradiction, but these don’t get mentioned in physics I think because the professors see it as too obvious to need mentioning. The trouble is that it’s only obvious to people who already know it, either explicitly, in the sense that they have a principle in mind, or inexplicitly, in the sense that they have an intuition. 
+
+For business problems, the relevant principles are many. The main ones that are the same as in physics are: fallibility, optimism, and non-contradiction. And one additional one needed is: Harmony between intelligent beings, biological or artificial (see section #10 Harmony between people). And depending on what the specific business problem is, more principles would be relevant.
+
+10. Harmony between people
+The earliest known theories we have about how people should interact with each other come from thousands of years ago, and we’ve been building on those theories ever since then. The Golden Rule – I should treat people how I want to be treated – is thousands of years old and it’s still being talked about and applied today.
+
+The golden rule is about teaching people to have integrity when interacting with others. It's trying to get us to imagine ourselves in someone else's shoes in an attempt to better understand their perspective. If you wouldn't like to be yelled at, then you shouldn't do that to others.
+
+But the golden rule on it's own isn't enough. It's just a rule of thumb, and like all rules of thumb, there are exceptions to the rule. My point is that you shouldn't try to follow this rule by the letter and instead you should follow it in spirit. The spirit of the rule is about avoiding being a hypocrite and learning how to think about things from other people's perspectives. 
+
+More generally, what's needed in relationships is to find mutually-beneficial ways of interacting with each other – to treat others in ways that are compatible with your preferences and their preferences. I learned these ideas from a parenting philosophy known as Taking Children Seriously, founded by Sara Fitz-Claridge and David Deutsch.
+
+In many cases our preferences are in harmony. But sometimes there's a conflict of preferences. So what should be done in these cases? One option is to leave each other alone, and as long as all parties are ok with that, then the conflict is resolved and everybody is in harmony. The goal there is to avoid hurting each other. It’s a good option to always keep in mind as a last resort. Another option we have is to change our preferences so that we’re still interacting with each other but our preferences are in harmony instead of in conflict. The existence of these two options implies that we should be flexible with our preferences. And this makes sense given that we're not perfect; very often our preferences deserve improvement.
+
+Our preferences are ideas, and like all ideas, we should apply the scientific approach to them. That means recognizing that whatever our current preferences are now, we should always be aware that they might not be good enough. There might be some conflicts that need to be resolved. And that means there's opportunity to find better preferences to replace our current ones with preferences that result in harmony.
+
+To properly understand the scientific approach we must properly understand freedom. They are inherently connected. People need the freedom to think and to act on their thinking, which of course means that one's actions must not infringe on the freedom of others to do the same. If someone forces or coerces you to act on their ideas which conflict with your own, that takes away from your opportunity to change your ideas. So, force and coercion have two effects; firstly they deter people from thinking, and secondly they impair people's ability to pursue happiness for themselves.
+
+Since the beginning of the Enlightenment era, many great thinkers figured out some important aspects of people interactions that clarify why the golden rule works. Ayn Rand explained that there are no inherent conflicts of interest between people [see her book The Virtue of Selfishness]. Any existing conflict can be changed such that everyone involved is fully happy with the result, and fully happy with the process that led to the result. Might some conflicts go unnoticed? Yes, because we’re fallible. The point is that any conflict can be found and resolved. This means that we can always make progress toward less conflict, in other words, more harmony. Another way of saying this is: there is no law of nature that causes conflicts to remain unresolved. It is only our current knowledge that would be causing conflicts to remain unresolved; for example, knowledge that says that it’s not worth trying to resolve conflicts because conflicts are too hard to resolve, or some of them cannot be resolved. An example of this is expressed in the extremely common saying, “you can’t always get what you want”. People use this saying against people who are trying to get what they want (oftentimes using it against themselves). Their aim is to get someone to give up, to accept a compromise, to leave a conflict unresolved and just arbitrarily pick one of the sides to be the “winner”. We can always get what we want, as long as we’re willing to change our wants to something reasonable.
+
+These ideas are popularly known under the name benevolence. Benevolence means wanting good for people, for others and ourselves. Benevolence means kindness. It means love. It means respect. Benevolence applies to all interactions, even with our enemies. Benevolence is antithetical to hate, revenge, and punishment.
+
+Other fields of study have created different names to refer to the same concept. In economics, the terms non-zero-sum and win-win are used [see John von Neumann’s book Theory of Games and Economic Behavior]. The idea is that nobody has to “lose” (not get what they want) in order for somebody else to “win” (get what they want). When we work together, we create value that couldn’t have been created if we had instead worked alone, or if we worked against each other. In contrast, zero-sum/win-lose interactions destroy value instead of creating it.
+
+
+Leadership
+
+When interacting with others, we often organize ourselves into leader and follower. Leaders suggest ideas and followers willingly adopt those ideas and act on them. In a good relationship, each individual will sometimes play the leader role and sometimes play the follower role. This is true even in relationships where one person is vastly more knowledgeable than the other, like a parent and child. Consider the example of the toddler who wants to learn what happens when he turns a cereal box over (details in section #5 Conflict-resolution). The toddler is leading his own experiment while the parent should be helping him perform his experiment, aka following the child’s lead.
+
+Another example of such a relationship a manager and employee. These relationships are more difficult than relationships where there is less of a difference in the knowledge and power between the individuals. Employees can easily be fired by their boss, and not vice versa. Children can easily be controlled (via violence or emotional manipulation) by their parents, and not vice versa. Because of this, it’s crucial for people in a position of power and authority to recognize the dangers that come with wielding such great power. 
+
+Richard Feynman recognized this danger very well. In his book, What Do You Care What People Think?, he explained something his father told him, “... have no respect whatsoever for authority; forget who said it and instead look at what he starts with, where he ends up, and ask yourself, ‘Is it reasonable?” Feynman understood this with respect to himself too. He didn’t want to be seen as an authority because he understood the strong tradition within our culture to defer to authority. He understood that deferring to authority means not contributing to the knowledge-creation process with your own ideas. He understood it to be pseudo-science.
+
+Karl Popper explained the dangers of authoritarian thinking in his book The Open Society and Its Enemies, Volume One: "But the secret of intellectual excellence is the spirit of criticism; it is intellectual independence. And this leads to difficulties which must prove insurmountable for any kind of authoritarianism. The authoritarian will in general select those who obey, who believe, who respond to his influence. But in doing so, he is bound to select mediocrities. For he excludes those who revolt, who doubt, who dare to resist his influence. Never can an authority admit that the intellectually courageous, i.e. those who dare to defy his authority, may be the most valuable type. Of course, the authorities will always remain convinced of their ability to detect initiative. But what they mean by this is only a quick grasp of their intentions, and they will remain forever incapable of seeing the difference."
+
+David Deutsch explained this attitude as the main contributor to the Enlightenment Age. He said in his book The Beginning of Infinity: “Rejecting authority in regard to knowledge was not just a matter of abstract analysis. It was a necessary condition for progress, because, before the Enlightenment, it was generally believed that everything important that was knowable had already been discovered, and was enshrined in authoritative sources such as ancient writings and traditional assumptions. Some of those sources did contain some genuine knowledge, but it was entrenched in the form of dogmas along with many falsehoods. So the situation was that all the sources from which it was generally believed knowledge came actually knew very little, and were mistaken about most of the things that they claimed to know. And therefore progress depended on learning how to reject their authority. This is why the Royal Society (one of the earliest scientific academies, founded in London in 1660) took as its motto ‘Nullius in verba’, which means something like ‘Take no one’s word for it.”
+
+Feynman, Popper, and Deutsch were never managers in an organization as far as I know, but of course their ideas are relevant to management. A boss that wants people to defer to his authority will be someone who attracts employees who see it as their role to defer to authorities, who see it as disrespectful to disagree with authorities. This means the boss is filtering out employees who see it as their role to contribute their ideas to the team. 
+
+Of course Eli Goldratt also recognized the danger of deferring to authorities. In the Self-Learning Program [link] (previously named Goldratt Satellite Program), Eli expressed his concern with the danger of charisma. He understood that it’s well-known that charisma can be a good thing. Sales managers teach it to salespeople by saying that we should learn to be funny in order to create rapport with customers, and to put people in the buying mood. When people describe Eli Goldratt, they usually use the adjective “charismatic”. But as Eli was trying to express, charisma can be used for evil too. Hitler had great charisma, and he used it for evil purposes. Conmen are known to use charisma as part of their toolset to fool their marks, to circumvent the scientific approach. But to be clear, this applies to everyone, not just people who know they are conmen. If we’re not careful, we can easily fall into the same trap. Charisma can easily result in people adopting ideas while ignoring their own ideas, effectively shortcircuting the knowledge-creation process. A customer could end up buying something that wasn’t the best decision for him, while the salesperson was not intending for that to happen, because the salesperson showed great charisma and didn’t do everything he could to help the customer make the best decision, even if the best decision is to decline all of the salesperson’s offers. The point here is that charisma, if used incorrectly, can have the effect of maintaining conflicts of ideas instead of resolving them, causing a situation where we keep our knowledge static instead of making progress with our knowledge – a situation where someone’s knowledge should have been incorporated but was not, due to being suppressed. Charisma encourages people to say ‘yes’ instead of ‘no’. And it’s an especially dangerous thing in our current culture where it’s seen as disrespectful to disagree with someone. We feel pressured – due to the ideas that we blindly adopted from our society – to say ‘yes’ instead of ‘no’ when someone is being charismatic with us.
